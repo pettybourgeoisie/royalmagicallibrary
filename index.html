@@ -38,7 +38,7 @@
     <div class="results" id="results"></div>
 
     <script>
-        const apiBaseURL = "https://api.allorigins.win/raw?url=https://formatlibrary.com/api/decks?limit=100&page=1&filter=format:eq:Goat";
+        const apiBaseURL = `https://api.allorigins.win/raw?url=${encodeURIComponent('https://formatlibrary.com/api/decks?limit=100&page=1&filter=format:eq:Goat')}`;
         
         async function getDecks() {
             const response = await fetch(apiBaseURL, {
