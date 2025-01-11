@@ -38,47 +38,56 @@
     <div class="results" id="results"></div>
 
     <script>
-        const apiBaseURL = "https://cors-anywhere.herokuapp.com/https://formatlibrary.com/api/decks?limit=100&page=1&filter=format:eq:Goat";
-
+        const apiBaseURL = "https://api.allorigins.win/raw?url=https://formatlibrary.com/api/decks?limit=100&page=1&filter=format:eq:Goat";
+        
         async function getDecks() {
-            const response = await fetch(apiBaseURL);
+            const response = await fetch(apiBaseURL, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
             const data = await response.json();
-            return data.data; // array of 100 decks
+            console.log("API Response:", data);
+            return data.data || [];
         }
 
-        async function getDeckDetails(deckId) {
-            const response = await fetch(`https://formatlibrary.com/api/decks/${deckId}`);
-            const deck = await response.json();
-            return deck; // detailed deck with "main", "side", "extra"
-        }
+
 
         async function searchDecks() {
-            const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
-            if (!searchTerm) {
-                alert("Please enter a card name to search.");
-                return;
-            }
-
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = "<p>Searching...</p>";
-
-            const decks = await getDecks();
-            const matchingDecks = [];
-
-            for (let deck of decks) {
-                const deckDetails = await getDeckDetails(deck.id);
-                const { main, side, extra } = deckDetails;
-
-                const combinedCards = [...main, ...side, ...extra];
-                const hasCard = combinedCards.some(cardName => cardName.toLowerCase().includes(searchTerm));
-
-                if (hasCard) {
-                    matchingDecks.push(deck.id);
+            try {
+                const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+                if (!searchTerm) {
+                    alert("Please enter a card name to search.");
+                    return;
                 }
+        
+                const resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = "<p>Searching...</p>";
+        
+                const decks = await getDecks();
+                if (!Array.isArray(decks)) throw new Error("Decks is not an array");
+        
+                const matchingDecks = [];
+                for (let deck of decks) {
+                    const deckDetails = await getDeckDetails(deck.id);
+                    const { main, side, extra } = deckDetails;
+        
+                    const combinedCards = [...main, ...side, ...extra];
+                    const hasCard = combinedCards.some(cardName => cardName.toLowerCase().includes(searchTerm));
+        
+                    if (hasCard) {
+                        matchingDecks.push(deck.id);
+                    }
+                }
+        
+                displayResults(matchingDecks);
+            } catch (error) {
+                console.error("Error during search:", error);
+                document.getElementById('results').innerHTML = "<p>An error occurred. Please try again later.</p>";
             }
-
-            displayResults(matchingDecks);
         }
+
 
         function displayResults(matchingDecks) {
             const resultsDiv = document.getElementById('results');
