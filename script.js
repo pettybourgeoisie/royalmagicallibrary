@@ -6,7 +6,7 @@ async function fetchAllDecks() {
   let totalFetched = 0;
 
   while (true) {
-    let response = await fetch(`https://formatlibrary.com/api/decks?limit=${limit}&offset=${offset}&filter=format:eq:Goat`);
+    let response = await fetch(`https://cors-anywhere.herokuapp.com/https://formatlibrary.com/api/decks?limit=${limit}&offset=${offset}&filter=format:eq:Goat`);
     let data = await response.json();
 
     if (data.length === 0) break; // Stop fetching if no decks are returned
