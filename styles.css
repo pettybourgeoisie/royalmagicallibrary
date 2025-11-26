@@ -1,26 +1,132 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 20px;
+  background-image: url('./assets/libraryBG.png');
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
 }
 
-h1 {
+#main-container {
+  width: 85%;
+  min-height: 100vh;
+  padding-top: 20px;
+  padding-left: 20px;
+  margin: auto;
+  background-color: AntiqueWhite;
   text-align: center;
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
+#cleffa {
+  float: inline-start;
+  width: 124px;
+  height: 124px;
+  transition: transform 0.5s ease;
 }
 
-th, td {
-  padding: 12px;
-  text-align: left;
+#cleffa.special {
+  animation: hop 2s infinite ease-in-out;
 }
 
-button {
-  display: block;
-  margin: 20px auto;
-  padding: 10px 20px;
-  font-size: 18px;
+@keyframes hop {
+  0%, 100% {
+    transform: translateX(0) translateY(0); /* Original position */
+  }
+  25% {
+    transform: translateX(-10px) translateY(-10px); /* Slight move left and up */
+  }
+  50% {
+    transform: translateX(0) translateY(-20px); /* Highest point, no side movement */
+  }
+  75% {
+    transform: translateX(10px) translateY(-10px); /* Slight move right and down */
+  }
 }
+
+
+
+#cleffa2 {
+  float: inline-end;
+  width: 124px;
+  height: 124px;
+  padding-left: 20px;
+  transform: scaleX(-1);
+}
+
+#search-results {
+  display: flex;
+  flex-wrap: wrap; /* Allows thumbnails to wrap to the next row */
+  gap: 20px; /* Space between thumbnails */
+  justify-content: flex-start;
+  align-items: flex-start; /* Align thumbnails to the top of the row */
+  padding-bottom: 20px;
+  justify-content: center;
+}
+
+.thumbnail {
+  width: 360px; /* Fixed width */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px;
+  border: 2px solid #ddd;
+}
+
+.thumbnail:hover {
+  box-shadow: 0px 0px 5px 5px pink !important;
+  filter: brightness(120%);
+}
+
+
+.deck-result {
+  width: 360px;
+}
+
+.deck-info {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 8px;
+  word-wrap: break-word;
+  line-height: 1.4;
+}
+
+.deck-info.scaled {
+  font-size: 0.9rem; /* This can be adjusted dynamically */
+}
+
+#loading-indicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000; /* Ensures it appears above other elements */
+  background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+  padding: 20px;
+  border-radius: 10px;
+}
+  
+#loading-indicator img {
+  width: 50px;
+  height: 50px;
+}
+  
+#results-count {
+  font-size: 26px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.spice-description {
+  font-style: italic;
+  font-size: 14px;
+  color: #ff5733; /* Spicy orange color */
+  margin-top: 5px;
+}
+
+/* This is content for the comparable tool */
