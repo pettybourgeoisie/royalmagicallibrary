@@ -1,0 +1,430 @@
+{
+  "id": 58814,
+  "name": null,
+  "ydk": "#created by ...\n#main\n24317029\n24317029\n24317029\n25262697\n25262697\n04041838\n04041838\n26202165\n74131780\n07572887\n33508719\n34124316\n83011277\n47355498\n47355498\n47355498\n72405967\n72405967\n72405967\n45986603\n32807846\n32807846\n14087893\n14087893\n73628505\n79571449\n55144522\n44763025\n05318639\n41420027\n41420027\n41420027\n83968380\n83968380\n44095762\n83555666\n76515293\n93747864\n53582587\n03819470\n#extra\n!side\n60082869\n80161395\n37520316\n47507260\n97169186\n64697231\n64697231\n25262697\n78658564\n14087893\n79853073\n56120475\n56120475\n56120475\n36361633\n",
+  "builderName": "Kit",
+  "builderId": "UzjDgThwBtQ3ftAMgHb3nY",
+  "deckTypeName": "Gravekeeper",
+  "category": "Aggro",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 2069,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "PWCQ76",
+  "publishDate": "2025-06-23T19:07:33.698Z",
+  "placement": 5,
+  "downloads": 67,
+  "views": 1637,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "UzjDgThwBtQ3ftAMgHb3nY",
+    "name": "Kit",
+    "discordId": "350447321940754432",
+    "discordPfp": "fead4aa3f49fa4256cc4a2f6fd25d5d9"
+  },
+  "event": {
+    "id": 2069,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:31:28.648Z",
+  "main": [
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Warrior Lady",
+      "cleanName": "D D Warrior Lady",
+      "id": 2076,
+      "artworkId": "7572887",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ninja Grandmaster Sasuke",
+      "cleanName": "Ninja Grandmaster Sasuke",
+      "id": 6862,
+      "artworkId": "4041838",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ninja Grandmaster Sasuke",
+      "cleanName": "Ninja Grandmaster Sasuke",
+      "id": 6862,
+      "artworkId": "4041838",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Royal Tribute",
+      "cleanName": "Royal Tribute",
+      "id": 8376,
+      "artworkId": "72405967",
+      "sortPriority": 15
+    },
+    {
+      "name": "Royal Tribute",
+      "cleanName": "Royal Tribute",
+      "id": 8376,
+      "artworkId": "72405967",
+      "sortPriority": 15
+    },
+    {
+      "name": "Royal Tribute",
+      "cleanName": "Royal Tribute",
+      "id": 8376,
+      "artworkId": "72405967",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Terraforming",
+      "cleanName": "Terraforming",
+      "id": 9766,
+      "artworkId": "73628505",
+      "sortPriority": 15
+    },
+    {
+      "name": "Desert Sunlight",
+      "cleanName": "Desert Sunlight",
+      "id": 2450,
+      "artworkId": "93747864",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    },
+    {
+      "name": "Xing Zhen Hu",
+      "cleanName": "Xing Zhen Hu",
+      "id": 11123,
+      "artworkId": "76515293",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [],
+  "side": [
+    {
+      "name": "Cipher Soldier",
+      "cleanName": "Cipher Soldier",
+      "id": 1590,
+      "artworkId": "79853073",
+      "sortPriority": 3
+    },
+    {
+      "name": "Goblin Attack Force",
+      "cleanName": "Goblin Attack Force",
+      "id": 4283,
+      "artworkId": "78658564",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Swordsman LV2",
+      "cleanName": "Mystic Swordsman LV2",
+      "id": 6639,
+      "artworkId": "47507260",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Threatening Roar",
+      "cleanName": "Threatening Roar",
+      "id": 10017,
+      "artworkId": "36361633",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    }
+  ]
+}

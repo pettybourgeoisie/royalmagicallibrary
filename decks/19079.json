@@ -1,0 +1,536 @@
+{
+  "id": 19079,
+  "name": null,
+  "ydk": "created by...\n#main\n53839837\n57281778\n57281778\n77044671\n77044671\n77044671\n26202165\n33508719\n34124316\n31560081\n40737112\n71413901\n33184167\n08131171\n55144522\n79571449\n72892473\n45986603\n70828912\n56747793\n16435215\n16435215\n16435215\n57953380\n57953380\n57953380\n02204140\n02204140\n02204140\n14087893\n42703248\n42703248\n42703248\n79759861\n79759861\n70368879\n70368879\n37576645\n97077563\n83555666\n#extra\n85684223\n85684223\n85684223\n58528964\n58528964\n58528964\n89112729\n89112729\n89112729\n25655502\n25655502\n25655502\n19066538\n19066538\n19066538\n!side\n77585513\n23205979\n80161395\n80161395\n37520316\n37520316\n87910978\n87910978\n14087893\n05318639\n19613556\n69162969\n72302403\n44095762\n53582587\n",
+  "builderName": "ATJ",
+  "builderId": "L55sMGaQdVQJFh34xhSVkz",
+  "deckTypeName": "Zombie Turbo",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 641,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GFC19",
+  "publishDate": "2023-02-05T17:00:07.890Z",
+  "placement": 18,
+  "downloads": 122,
+  "views": 2556,
+  "rating": 4,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "L55sMGaQdVQJFh34xhSVkz",
+    "name": "ATJ",
+    "discordId": "479019855970828288",
+    "discordPfp": "29d8330366101fb83f9e0567728ae5e5"
+  },
+  "event": {
+    "id": 641,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:37:58.825Z",
+  "main": [
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Dark Magician of Chaos",
+      "cleanName": "Dark Magician of Chaos",
+      "id": 2266,
+      "artworkId": "40737112",
+      "sortPriority": 3
+    },
+    {
+      "name": "Magician of Faith",
+      "cleanName": "Magician of Faith",
+      "id": 5950,
+      "artworkId": "31560081",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ryu Kokki",
+      "cleanName": "Ryu Kokki",
+      "id": 8394,
+      "artworkId": "57281778",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ryu Kokki",
+      "cleanName": "Ryu Kokki",
+      "id": 8394,
+      "artworkId": "57281778",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Vampire Lord",
+      "cleanName": "Vampire Lord",
+      "id": 10593,
+      "artworkId": "53839837",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Life",
+      "cleanName": "Book of Life",
+      "id": 1132,
+      "artworkId": "2204140",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Life",
+      "cleanName": "Book of Life",
+      "id": 1132,
+      "artworkId": "2204140",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Life",
+      "cleanName": "Book of Life",
+      "id": 1132,
+      "artworkId": "2204140",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Card Destruction",
+      "cleanName": "Card Destruction",
+      "id": 1377,
+      "artworkId": "72892473",
+      "sortPriority": 15
+    },
+    {
+      "name": "Card of Safe Return",
+      "cleanName": "Card of Safe Return",
+      "id": 1387,
+      "artworkId": "57953380",
+      "sortPriority": 15
+    },
+    {
+      "name": "Card of Safe Return",
+      "cleanName": "Card of Safe Return",
+      "id": 1387,
+      "artworkId": "57953380",
+      "sortPriority": 15
+    },
+    {
+      "name": "Card of Safe Return",
+      "cleanName": "Card of Safe Return",
+      "id": 1387,
+      "artworkId": "57953380",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Tribute to the Doomed",
+      "cleanName": "Tribute to the Doomed",
+      "id": 10277,
+      "artworkId": "79759861",
+      "sortPriority": 15
+    },
+    {
+      "name": "Tribute to the Doomed",
+      "cleanName": "Tribute to the Doomed",
+      "id": 10277,
+      "artworkId": "79759861",
+      "sortPriority": 15
+    },
+    {
+      "name": "United We Stand",
+      "cleanName": "United We Stand",
+      "id": 10511,
+      "artworkId": "56747793",
+      "sortPriority": 15
+    },
+    {
+      "name": "Upstart Goblin",
+      "cleanName": "Upstart Goblin",
+      "id": 10525,
+      "artworkId": "70368879",
+      "sortPriority": 15
+    },
+    {
+      "name": "Upstart Goblin",
+      "cleanName": "Upstart Goblin",
+      "id": 10525,
+      "artworkId": "70368879",
+      "sortPriority": 15
+    },
+    {
+      "name": "Call of the Haunted",
+      "cleanName": "Call of the Haunted",
+      "id": 1356,
+      "artworkId": "97077563",
+      "sortPriority": 16
+    },
+    {
+      "name": "Reckless Greed",
+      "cleanName": "Reckless Greed",
+      "id": 8057,
+      "artworkId": "37576645",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Bickuribox",
+      "cleanName": "Bickuribox",
+      "id": 902,
+      "artworkId": "25655502",
+      "sortPriority": 6
+    },
+    {
+      "name": "Bickuribox",
+      "cleanName": "Bickuribox",
+      "id": 902,
+      "artworkId": "25655502",
+      "sortPriority": 6
+    },
+    {
+      "name": "Bickuribox",
+      "cleanName": "Bickuribox",
+      "id": 902,
+      "artworkId": "25655502",
+      "sortPriority": 6
+    },
+    {
+      "name": "Cyber Saurus",
+      "cleanName": "Cyber Saurus",
+      "id": 1968,
+      "artworkId": "89112729",
+      "sortPriority": 6
+    },
+    {
+      "name": "Cyber Saurus",
+      "cleanName": "Cyber Saurus",
+      "id": 1968,
+      "artworkId": "89112729",
+      "sortPriority": 6
+    },
+    {
+      "name": "Cyber Saurus",
+      "cleanName": "Cyber Saurus",
+      "id": 1968,
+      "artworkId": "89112729",
+      "sortPriority": 6
+    },
+    {
+      "name": "Flame Ghost",
+      "cleanName": "Flame Ghost",
+      "id": 3580,
+      "artworkId": "58528964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Flame Ghost",
+      "cleanName": "Flame Ghost",
+      "id": 3580,
+      "artworkId": "58528964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Flame Ghost",
+      "cleanName": "Flame Ghost",
+      "id": 3580,
+      "artworkId": "58528964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Jinzo",
+      "cleanName": "Jinzo",
+      "id": 5192,
+      "artworkId": "77585513",
+      "sortPriority": 3
+    },
+    {
+      "name": "Spirit Reaper",
+      "cleanName": "Spirit Reaper",
+      "id": 9179,
+      "artworkId": "23205979",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Lightning Vortex",
+      "cleanName": "Lightning Vortex",
+      "id": 5656,
+      "artworkId": "69162969",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    }
+  ]
+}

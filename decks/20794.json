@@ -1,0 +1,536 @@
+{
+  "id": 20794,
+  "name": null,
+  "ydk": "#created by ...\n#main\n40133511\n40133511\n72989439\n34124316\n69579761\n69579761\n69579761\n24317029\n24317029\n24317029\n33508719\n26202165\n31786629\n31786629\n31786629\n33184167\n72892473\n23557835\n42703248\n42703248\n42703248\n79571449\n37520316\n71044499\n55144522\n45986603\n36468556\n93747864\n93747864\n93747864\n24068492\n24068492\n24068492\n44095762\n29843091\n29843091\n29843091\n83555666\n27053506\n27053506\n#extra\n28593363\n28593363\n28593363\n51828629\n51828629\n51828629\n95144193\n95144193\n95144193\n19066538\n19066538\n19066538\n56413937\n56413937\n56413937\n!side\n91869203\n71413901\n79853073\n79853073\n97017120\n97017120\n09817927\n04929256\n19613556\n05318639\n80161395\n71044499\n72302403\n88789641\n88789641\n",
+  "builderName": "camposssssss",
+  "builderId": "M51s4imwKi3nTd3KK4qYAu",
+  "deckTypeName": "Bazoo Burn",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 684,
+  "communityName": "Format Library",
+  "eventAbbreviation": "FLC28",
+  "publishDate": "2023-02-24T23:11:29.133Z",
+  "placement": 9,
+  "downloads": 56,
+  "views": 1191,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "M51s4imwKi3nTd3KK4qYAu",
+    "name": "camposssssss",
+    "discordId": "477865790209523714",
+    "discordPfp": "a333fa16d20c2f548e6597a9035ff9c3"
+  },
+  "event": {
+    "id": 684,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:37:42.428Z",
+  "main": [
+    {
+      "name": "Bazoo the Soul-Eater",
+      "cleanName": "Bazoo the Soul Eater",
+      "id": 841,
+      "artworkId": "40133511",
+      "sortPriority": 3
+    },
+    {
+      "name": "Bazoo the Soul-Eater",
+      "cleanName": "Bazoo the Soul Eater",
+      "id": 841,
+      "artworkId": "40133511",
+      "sortPriority": 3
+    },
+    {
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "cleanName": "Black Luster Soldier Envoy of the Beginning",
+      "id": 951,
+      "artworkId": "72989439",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Card Destruction",
+      "cleanName": "Card Destruction",
+      "id": 1377,
+      "artworkId": "72892473",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dimension Fusion",
+      "cleanName": "Dimension Fusion",
+      "id": 2581,
+      "artworkId": "23557835",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Ceasefire",
+      "cleanName": "Ceasefire",
+      "id": 1423,
+      "artworkId": "36468556",
+      "sortPriority": 16
+    },
+    {
+      "name": "Desert Sunlight",
+      "cleanName": "Desert Sunlight",
+      "id": 2450,
+      "artworkId": "93747864",
+      "sortPriority": 16
+    },
+    {
+      "name": "Desert Sunlight",
+      "cleanName": "Desert Sunlight",
+      "id": 2450,
+      "artworkId": "93747864",
+      "sortPriority": 16
+    },
+    {
+      "name": "Desert Sunlight",
+      "cleanName": "Desert Sunlight",
+      "id": 2450,
+      "artworkId": "93747864",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Secret Barrel",
+      "cleanName": "Secret Barrel",
+      "id": 8625,
+      "artworkId": "27053506",
+      "sortPriority": 16
+    },
+    {
+      "name": "Secret Barrel",
+      "cleanName": "Secret Barrel",
+      "id": 8625,
+      "artworkId": "27053506",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Deepsea Shark",
+      "cleanName": "Deepsea Shark",
+      "id": 2403,
+      "artworkId": "28593363",
+      "sortPriority": 6
+    },
+    {
+      "name": "Deepsea Shark",
+      "cleanName": "Deepsea Shark",
+      "id": 2403,
+      "artworkId": "28593363",
+      "sortPriority": 6
+    },
+    {
+      "name": "Deepsea Shark",
+      "cleanName": "Deepsea Shark",
+      "id": 2403,
+      "artworkId": "28593363",
+      "sortPriority": 6
+    },
+    {
+      "name": "Giltia the D. Knight",
+      "cleanName": "Giltia the D Knight",
+      "id": 4171,
+      "artworkId": "51828629",
+      "sortPriority": 6
+    },
+    {
+      "name": "Giltia the D. Knight",
+      "cleanName": "Giltia the D Knight",
+      "id": 4171,
+      "artworkId": "51828629",
+      "sortPriority": 6
+    },
+    {
+      "name": "Giltia the D. Knight",
+      "cleanName": "Giltia the D Knight",
+      "id": 4171,
+      "artworkId": "51828629",
+      "sortPriority": 6
+    },
+    {
+      "name": "Kwagar Hercules",
+      "cleanName": "Kwagar Hercules",
+      "id": 5483,
+      "artworkId": "95144193",
+      "sortPriority": 6
+    },
+    {
+      "name": "Kwagar Hercules",
+      "cleanName": "Kwagar Hercules",
+      "id": 5483,
+      "artworkId": "95144193",
+      "sortPriority": 6
+    },
+    {
+      "name": "Kwagar Hercules",
+      "cleanName": "Kwagar Hercules",
+      "id": 5483,
+      "artworkId": "95144193",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Warrior of Tradition",
+      "cleanName": "Warrior of Tradition",
+      "id": 10799,
+      "artworkId": "56413937",
+      "sortPriority": 6
+    },
+    {
+      "name": "Warrior of Tradition",
+      "cleanName": "Warrior of Tradition",
+      "id": 10799,
+      "artworkId": "56413937",
+      "sortPriority": 6
+    },
+    {
+      "name": "Warrior of Tradition",
+      "cleanName": "Warrior of Tradition",
+      "id": 10799,
+      "artworkId": "56413937",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Amazoness Archer",
+      "cleanName": "Amazoness Archer",
+      "id": 275,
+      "artworkId": "91869203",
+      "sortPriority": 3
+    },
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cipher Soldier",
+      "cleanName": "Cipher Soldier",
+      "id": 1590,
+      "artworkId": "79853073",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cipher Soldier",
+      "cleanName": "Cipher Soldier",
+      "id": 1590,
+      "artworkId": "79853073",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gyaku-Gire Panda",
+      "cleanName": "Gyaku Gire Panda",
+      "id": 4580,
+      "artworkId": "9817927",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Hallowed Life Barrier",
+      "cleanName": "Hallowed Life Barrier",
+      "id": 4596,
+      "artworkId": "88789641",
+      "sortPriority": 16
+    },
+    {
+      "name": "Hallowed Life Barrier",
+      "cleanName": "Hallowed Life Barrier",
+      "id": 4596,
+      "artworkId": "88789641",
+      "sortPriority": 16
+    }
+  ]
+}

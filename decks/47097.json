@@ -1,0 +1,536 @@
+{
+  "id": 47097,
+  "name": null,
+  "ydk": "created by...\n#main\n11224103\n11224103\n11224103\n48229808\n60229110\n77585513\n26202165\n71413901\n69015963\n69015963\n69015963\n74131780\n79575620\n24317029\n24317029\n97017120\n97017120\n45894482\n45894482\n60682203\n60682203\n60682203\n79571449\n19613556\n5318639\n85602018\n85602018\n85602018\n55144522\n70828912\n71044499\n71044499\n37520316\n45986603\n51452091\n15800838\n15800838\n64697231\n64697231\n64697231\n#extra\n80071763\n86805855\n17881964\n66235877\n58528964\n87751584\n13756293\n13756293\n13756293\n27134689\n85684223\n49868263\n21175632\n86099788\n63519819\n!side\n34124316\n39168895\n39168895\n39168895\n88472456\n88472456\n88472456\n56120475\n56120475\n56120475\n53582587\n57182235\n57182235\n57182235\n44095762\n",
+  "builderName": "angel_valentinov",
+  "builderId": "HY67yFuuDqqvLnZvLhMwi3",
+  "deckTypeName": "Stein Horus",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 1727,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "PWCQ69",
+  "publishDate": "2024-11-17T00:00:53.657Z",
+  "placement": 1,
+  "downloads": 628,
+  "views": 7966,
+  "rating": 334,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "HY67yFuuDqqvLnZvLhMwi3",
+    "name": "angel_valentinov",
+    "discordId": "915590866012340224",
+    "discordPfp": "5b8904e7e54aecec7399b1dcc4ac8b04"
+  },
+  "event": {
+    "id": 1727,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:32:29.571Z",
+  "main": [
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gilasaurus",
+      "cleanName": "Gilasaurus",
+      "id": 4166,
+      "artworkId": "45894482",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gilasaurus",
+      "cleanName": "Gilasaurus",
+      "id": 4166,
+      "artworkId": "45894482",
+      "sortPriority": 3
+    },
+    {
+      "name": "Granmarg the Rock Monarch",
+      "cleanName": "Granmarg the Rock Monarch",
+      "id": 4411,
+      "artworkId": "60229110",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV6",
+      "cleanName": "Horus the Black Flame Dragon LV6",
+      "id": 4832,
+      "artworkId": "11224103",
+      "sortPriority": 3
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV6",
+      "cleanName": "Horus the Black Flame Dragon LV6",
+      "id": 4832,
+      "artworkId": "11224103",
+      "sortPriority": 3
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV6",
+      "cleanName": "Horus the Black Flame Dragon LV6",
+      "id": 4832,
+      "artworkId": "11224103",
+      "sortPriority": 3
+    },
+    {
+      "name": "Horus the Black Flame Dragon LV8",
+      "cleanName": "Horus the Black Flame Dragon LV8",
+      "id": 4833,
+      "artworkId": "48229808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Injection Fairy Lily",
+      "cleanName": "Injection Fairy Lily",
+      "id": 5059,
+      "artworkId": "79575620",
+      "sortPriority": 3
+    },
+    {
+      "name": "Jinzo",
+      "cleanName": "Jinzo",
+      "id": 5192,
+      "artworkId": "77585513",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cold Wave",
+      "cleanName": "Cold Wave",
+      "id": 1661,
+      "artworkId": "60682203",
+      "sortPriority": 15
+    },
+    {
+      "name": "Cold Wave",
+      "cleanName": "Cold Wave",
+      "id": 1661,
+      "artworkId": "60682203",
+      "sortPriority": 15
+    },
+    {
+      "name": "Cold Wave",
+      "cleanName": "Cold Wave",
+      "id": 1661,
+      "artworkId": "60682203",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Crush",
+      "cleanName": "Mind Crush",
+      "id": 6421,
+      "artworkId": "15800838",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mind Crush",
+      "cleanName": "Mind Crush",
+      "id": 6421,
+      "artworkId": "15800838",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Flame Ghost",
+      "cleanName": "Flame Ghost",
+      "id": 3580,
+      "artworkId": "58528964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Master of Oz",
+      "cleanName": "Master of Oz",
+      "id": 6162,
+      "artworkId": "27134689",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "St. Joan",
+      "cleanName": "St Joan",
+      "id": 9235,
+      "artworkId": "21175632",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Token Thanksgiving",
+      "cleanName": "Token Thanksgiving",
+      "id": 10118,
+      "artworkId": "57182235",
+      "sortPriority": 15
+    },
+    {
+      "name": "Token Thanksgiving",
+      "cleanName": "Token Thanksgiving",
+      "id": 10118,
+      "artworkId": "57182235",
+      "sortPriority": 15
+    },
+    {
+      "name": "Token Thanksgiving",
+      "cleanName": "Token Thanksgiving",
+      "id": 10118,
+      "artworkId": "57182235",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    }
+  ]
+}

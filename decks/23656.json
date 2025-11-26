@@ -1,0 +1,536 @@
+{
+  "id": 23656,
+  "name": null,
+  "ydk": "#created by ...\n#main\n72989439\n25551951\n25551951\n25551951\n83986578\n83986578\n83986578\n88240808\n88240808\n88240808\n08131171\n31786629\n31786629\n31786629\n33184167\n51945556\n51945556\n87910978\n44763025\n79571449\n19613556\n46411259\n46411259\n46411259\n05318639\n71044499\n71044499\n55144522\n73915051\n73915051\n45986603\n68005187\n68005187\n68005187\n04178474\n04178474\n83555666\n41420027\n41420027\n41420027\n#extra\n80071763\n86805855\n17881964\n70681994\n66235877\n87751584\n13756293\n27134689\n90140980\n85684223\n49868263\n86099788\n63519819\n63519819\n63519819\n!side\n39168895\n39168895\n39168895\n40640057\n40640057\n04929256\n04929256\n04929256\n88472456\n88472456\n88472456\n87910978\n51452091\n51452091\n51452091\n",
+  "builderName": "Riccardo Gardi",
+  "builderId": "5TT2VsTU9pTmWKs64kNcvd",
+  "deckTypeName": "Soul Control",
+  "category": "Control",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 819,
+  "communityName": "Goat Community Italia",
+  "eventAbbreviation": "ITNC22",
+  "publishDate": "2022-06-19T00:00:00.000Z",
+  "placement": 3,
+  "downloads": 49,
+  "views": 1019,
+  "rating": 1,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "5TT2VsTU9pTmWKs64kNcvd",
+    "name": "Riccardo Gardi",
+    "discordId": "811570632981610506",
+    "discordPfp": "2ab8aff743ce4dc22f045443fb000349"
+  },
+  "event": {
+    "id": 819,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:40:12.426Z",
+  "main": [
+    {
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "cleanName": "Black Luster Soldier Envoy of the Beginning",
+      "id": 951,
+      "artworkId": "72989439",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blowback Dragon",
+      "cleanName": "Blowback Dragon",
+      "id": 1085,
+      "artworkId": "25551951",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blowback Dragon",
+      "cleanName": "Blowback Dragon",
+      "id": 1085,
+      "artworkId": "25551951",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blowback Dragon",
+      "cleanName": "Blowback Dragon",
+      "id": 1085,
+      "artworkId": "25551951",
+      "sortPriority": 3
+    },
+    {
+      "name": "King Tiger Wanghu",
+      "cleanName": "King Tiger Wanghu",
+      "id": 5362,
+      "artworkId": "83986578",
+      "sortPriority": 3
+    },
+    {
+      "name": "King Tiger Wanghu",
+      "cleanName": "King Tiger Wanghu",
+      "id": 5362,
+      "artworkId": "83986578",
+      "sortPriority": 3
+    },
+    {
+      "name": "King Tiger Wanghu",
+      "cleanName": "King Tiger Wanghu",
+      "id": 5362,
+      "artworkId": "83986578",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zaborg the Thunder Monarch",
+      "cleanName": "Zaborg the Thunder Monarch",
+      "id": 11245,
+      "artworkId": "51945556",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zaborg the Thunder Monarch",
+      "cleanName": "Zaborg the Thunder Monarch",
+      "id": 11245,
+      "artworkId": "51945556",
+      "sortPriority": 3
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Metamorphosis",
+      "cleanName": "Metamorphosis",
+      "id": 6367,
+      "artworkId": "46411259",
+      "sortPriority": 15
+    },
+    {
+      "name": "Metamorphosis",
+      "cleanName": "Metamorphosis",
+      "id": 6367,
+      "artworkId": "46411259",
+      "sortPriority": 15
+    },
+    {
+      "name": "Metamorphosis",
+      "cleanName": "Metamorphosis",
+      "id": 6367,
+      "artworkId": "46411259",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Soul Exchange",
+      "cleanName": "Soul Exchange",
+      "id": 9033,
+      "artworkId": "68005187",
+      "sortPriority": 15
+    },
+    {
+      "name": "Soul Exchange",
+      "cleanName": "Soul Exchange",
+      "id": 9033,
+      "artworkId": "68005187",
+      "sortPriority": 15
+    },
+    {
+      "name": "Soul Exchange",
+      "cleanName": "Soul Exchange",
+      "id": 9033,
+      "artworkId": "68005187",
+      "sortPriority": 15
+    },
+    {
+      "name": "Raigeki Break",
+      "cleanName": "Raigeki Break",
+      "id": 7964,
+      "artworkId": "4178474",
+      "sortPriority": 16
+    },
+    {
+      "name": "Raigeki Break",
+      "cleanName": "Raigeki Break",
+      "id": 7964,
+      "artworkId": "4178474",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Master of Oz",
+      "cleanName": "Master of Oz",
+      "id": 6162,
+      "artworkId": "27134689",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Berserk Gorilla",
+      "cleanName": "Berserk Gorilla",
+      "id": 892,
+      "artworkId": "39168895",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kuriboh",
+      "cleanName": "Kuriboh",
+      "id": 5475,
+      "artworkId": "40640057",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kuriboh",
+      "cleanName": "Kuriboh",
+      "id": 5475,
+      "artworkId": "40640057",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    }
+  ]
+}

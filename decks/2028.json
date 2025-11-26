@@ -1,0 +1,536 @@
+{
+  "id": 2028,
+  "name": null,
+  "ydk": "#created\nby\n...\n#main\n65240384\n65240384\n65240384\n34124316\n69579761\n69579761\n69579761\n74131780\n33508719\n26202165\n34853266\n14087893\n14087893\n14087893\n79571449\n03136426\n03136426\n55144522\n32807846\n32807846\n36468556\n94192409\n94192409\n94192409\n03027001\n03027001\n24068492\n24068492\n24068492\n62279055\n29843091\n29843091\n29843091\n83555666\n27053506\n27053506\n27053506\n41420027\n41420027\n41420027\n#extra\n01641882\n01641882\n01641882\n90140980\n90140980\n90140980\n53539634\n53539634\n53539634\n41462083\n41462083\n41462083\n63519819\n63519819\n63519819\n!side\n07572887\n47507260\n11021521\n03682106\n03682106\n03682106\n42703248\n42703248\n42703248\n71044499\n71044499\n03819470\n03819470\n82732705\n82732705\n",
+  "builderName": "Darth Griefious",
+  "builderId": "mrAWVusNw3TraarFyXG6qG",
+  "deckTypeName": "Drain Burn",
+  "category": "Lockdown",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 293,
+  "communityName": "Format Library",
+  "eventAbbreviation": "FLC09",
+  "publishDate": "2019-07-14T21:08:01.226Z",
+  "placement": 3,
+  "downloads": 35,
+  "views": 460,
+  "rating": 1,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "mrAWVusNw3TraarFyXG6qG",
+    "name": "Darth Griefious",
+    "discordId": "442783275036180501",
+    "discordPfp": "d689d13975a4c4e55daaba344a385712"
+  },
+  "event": {
+    "id": 293,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:43:56.941Z",
+  "main": [
+    {
+      "name": "Big Shield Gardna",
+      "cleanName": "Big Shield Gardna",
+      "id": 915,
+      "artworkId": "65240384",
+      "sortPriority": 3
+    },
+    {
+      "name": "Big Shield Gardna",
+      "cleanName": "Big Shield Gardna",
+      "id": 915,
+      "artworkId": "65240384",
+      "sortPriority": 3
+    },
+    {
+      "name": "Big Shield Gardna",
+      "cleanName": "Big Shield Gardna",
+      "id": 915,
+      "artworkId": "65240384",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tsukuyomi",
+      "cleanName": "Tsukuyomi",
+      "id": 10339,
+      "artworkId": "34853266",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Ceasefire",
+      "cleanName": "Ceasefire",
+      "id": 1423,
+      "artworkId": "36468556",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Fake Trap",
+      "cleanName": "Fake Trap",
+      "id": 3432,
+      "artworkId": "3027001",
+      "sortPriority": 16
+    },
+    {
+      "name": "Fake Trap",
+      "cleanName": "Fake Trap",
+      "id": 3432,
+      "artworkId": "3027001",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Magic Cylinder",
+      "cleanName": "Magic Cylinder",
+      "id": 5885,
+      "artworkId": "62279055",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Secret Barrel",
+      "cleanName": "Secret Barrel",
+      "id": 8625,
+      "artworkId": "27053506",
+      "sortPriority": 16
+    },
+    {
+      "name": "Secret Barrel",
+      "cleanName": "Secret Barrel",
+      "id": 8625,
+      "artworkId": "27053506",
+      "sortPriority": 16
+    },
+    {
+      "name": "Secret Barrel",
+      "cleanName": "Secret Barrel",
+      "id": 8625,
+      "artworkId": "27053506",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Sanwitch",
+      "cleanName": "Sanwitch",
+      "id": 8519,
+      "artworkId": "53539634",
+      "sortPriority": 6
+    },
+    {
+      "name": "Sanwitch",
+      "cleanName": "Sanwitch",
+      "id": 8519,
+      "artworkId": "53539634",
+      "sortPriority": 6
+    },
+    {
+      "name": "Sanwitch",
+      "cleanName": "Sanwitch",
+      "id": 8519,
+      "artworkId": "53539634",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand Dragon",
+      "cleanName": "Thousand Dragon",
+      "id": 10009,
+      "artworkId": "41462083",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand Dragon",
+      "cleanName": "Thousand Dragon",
+      "id": 10009,
+      "artworkId": "41462083",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand Dragon",
+      "cleanName": "Thousand Dragon",
+      "id": 10009,
+      "artworkId": "41462083",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "D.D. Warrior Lady",
+      "cleanName": "D D Warrior Lady",
+      "id": 2076,
+      "artworkId": "7572887",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Swordsman LV2",
+      "cleanName": "Mystic Swordsman LV2",
+      "id": 6639,
+      "artworkId": "47507260",
+      "sortPriority": 3
+    },
+    {
+      "name": "Neko Mane King",
+      "cleanName": "Neko Mane King",
+      "id": 6769,
+      "artworkId": "11021521",
+      "sortPriority": 3
+    },
+    {
+      "name": "Double Snare",
+      "cleanName": "Double Snare",
+      "id": 2761,
+      "artworkId": "3682106",
+      "sortPriority": 15
+    },
+    {
+      "name": "Double Snare",
+      "cleanName": "Double Snare",
+      "id": 2761,
+      "artworkId": "3682106",
+      "sortPriority": 15
+    },
+    {
+      "name": "Double Snare",
+      "cleanName": "Double Snare",
+      "id": 2761,
+      "artworkId": "3682106",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Skill Drain",
+      "cleanName": "Skill Drain",
+      "id": 8879,
+      "artworkId": "82732705",
+      "sortPriority": 16
+    },
+    {
+      "name": "Skill Drain",
+      "cleanName": "Skill Drain",
+      "id": 8879,
+      "artworkId": "82732705",
+      "sortPriority": 16
+    }
+  ]
+}

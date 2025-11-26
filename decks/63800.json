@@ -1,0 +1,536 @@
+{
+  "id": 63800,
+  "name": null,
+  "ydk": "#created by ...\n#main\n2134346\n72989439\n71413901\n9596126\n87621407\n87621407\n88240808\n88240808\n31560081\n31560081\n26202165\n8131171\n31786629\n31786629\n31786629\n33184167\n34853266\n14087893\n14087893\n31036355\n31036355\n44763025\n79571449\n19613556\n46411259\n46411259\n71044499\n71044499\n55144522\n73915051\n73915051\n45986603\n83968380\n83968380\n83968380\n44095762\n4178474\n83555666\n41420027\n41420027\n#extra\n80071763\n80071763\n86805855\n17881964\n70681994\n66235877\n87751584\n51828629\n90140980\n85684223\n49868263\n63519819\n63519819\n63519819\n54752875\n!side\n2134346\n23205979\n34853266\n5318639\n80161395\n80161395\n97169186\n97169186\n58921041\n58921041\n4178474\n51452091\n51452091\n56120475\n56120475\n",
+  "builderName": "Charlie MAD",
+  "builderId": "h3bcxkoSfQX5rFuCTXFYw7",
+  "deckTypeName": "Chaos Control",
+  "category": "Control",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 2208,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GFC24",
+  "publishDate": "2025-09-14T18:04:46.683Z",
+  "placement": 5,
+  "downloads": 17,
+  "views": 623,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "h3bcxkoSfQX5rFuCTXFYw7",
+    "name": "Charlie MAD",
+    "discordId": "580831291843543081",
+    "discordPfp": "60fa3cf3f0a96fbed29a9141afed109b"
+  },
+  "event": {
+    "id": 2208,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:30:59.904Z",
+  "main": [
+    {
+      "name": "Asura Priest",
+      "cleanName": "Asura Priest",
+      "id": 652,
+      "artworkId": "2134346",
+      "sortPriority": 3
+    },
+    {
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "cleanName": "Black Luster Soldier Envoy of the Beginning",
+      "id": 951,
+      "artworkId": "72989439",
+      "sortPriority": 3
+    },
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Chaos Sorcerer",
+      "cleanName": "Chaos Sorcerer",
+      "id": 1494,
+      "artworkId": "9596126",
+      "sortPriority": 3
+    },
+    {
+      "name": "Dekoichi the Battlechanted Locomotive",
+      "cleanName": "Dekoichi the Battlechanted Locomotive",
+      "id": 2419,
+      "artworkId": "87621407",
+      "sortPriority": 3
+    },
+    {
+      "name": "Dekoichi the Battlechanted Locomotive",
+      "cleanName": "Dekoichi the Battlechanted Locomotive",
+      "id": 2419,
+      "artworkId": "87621407",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Magician of Faith",
+      "cleanName": "Magician of Faith",
+      "id": 5950,
+      "artworkId": "31560081",
+      "sortPriority": 3
+    },
+    {
+      "name": "Magician of Faith",
+      "cleanName": "Magician of Faith",
+      "id": 5950,
+      "artworkId": "31560081",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tsukuyomi",
+      "cleanName": "Tsukuyomi",
+      "id": 10339,
+      "artworkId": "34853266",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Creature Swap",
+      "cleanName": "Creature Swap",
+      "id": 1793,
+      "artworkId": "31036355",
+      "sortPriority": 15
+    },
+    {
+      "name": "Creature Swap",
+      "cleanName": "Creature Swap",
+      "id": 1793,
+      "artworkId": "31036355",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Metamorphosis",
+      "cleanName": "Metamorphosis",
+      "id": 6367,
+      "artworkId": "46411259",
+      "sortPriority": 15
+    },
+    {
+      "name": "Metamorphosis",
+      "cleanName": "Metamorphosis",
+      "id": 6367,
+      "artworkId": "46411259",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Raigeki Break",
+      "cleanName": "Raigeki Break",
+      "id": 7964,
+      "artworkId": "4178474",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Giltia the D. Knight",
+      "cleanName": "Giltia the D Knight",
+      "id": 4171,
+      "artworkId": "51828629",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Twin-Headed Thunder Dragon",
+      "cleanName": "Twin Headed Thunder Dragon",
+      "id": 10383,
+      "artworkId": "54752875",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Asura Priest",
+      "cleanName": "Asura Priest",
+      "id": 652,
+      "artworkId": "2134346",
+      "sortPriority": 3
+    },
+    {
+      "name": "Spirit Reaper",
+      "cleanName": "Spirit Reaper",
+      "id": 9179,
+      "artworkId": "23205979",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tsukuyomi",
+      "cleanName": "Tsukuyomi",
+      "id": 10339,
+      "artworkId": "34853266",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Anti-Spell Fragrance",
+      "cleanName": "Anti Spell Fragrance",
+      "id": 423,
+      "artworkId": "58921041",
+      "sortPriority": 16
+    },
+    {
+      "name": "Anti-Spell Fragrance",
+      "cleanName": "Anti Spell Fragrance",
+      "id": 423,
+      "artworkId": "58921041",
+      "sortPriority": 16
+    },
+    {
+      "name": "Raigeki Break",
+      "cleanName": "Raigeki Break",
+      "id": 7964,
+      "artworkId": "4178474",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    }
+  ]
+}

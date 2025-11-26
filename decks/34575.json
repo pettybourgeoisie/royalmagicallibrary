@@ -1,0 +1,536 @@
+{
+  "id": 34575,
+  "name": null,
+  "ydk": "#created by ...\n#main\n71413901\n70074904\n7572887\n31829185\n74131780\n73698349\n73698349\n73698349\n8581705\n8581705\n26202165\n35975813\n35975813\n33184167\n88472456\n49881766\n49881766\n49881766\n44763025\n79571449\n19613556\n5318639\n71044499\n71044499\n55144522\n70828912\n32807846\n32807846\n97169186\n97169186\n45986603\n97077563\n35027493\n60082869\n60082869\n60082869\n44095762\n83555666\n56120475\n56120475\n#extra\n80071763\n80071763\n66235877\n1641882\n87751584\n54541900\n13756293\n27134689\n49868263\n49868263\n2504891\n86099788\n63519819\n63519819\n63519819\n!side\n91869203\n24317029\n24317029\n2460565\n4929256\n47507260\n88472456\n14087893\n14087893\n32919136\n80161395\n29401950\n53582587\n64697231\n64697231\n",
+  "builderName": "AlephYa2",
+  "builderId": "JQmWsg2ez6gm4bbCRhg4wK",
+  "deckTypeName": "Earth Beat",
+  "category": "Aggro",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 1205,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "PWCQ52",
+  "publishDate": "2024-01-22T00:45:56.674Z",
+  "placement": 5,
+  "downloads": 51,
+  "views": 1262,
+  "rating": 6,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "JQmWsg2ez6gm4bbCRhg4wK",
+    "name": "AlephYa2",
+    "discordId": "531103788283592714",
+    "discordPfp": "725a4d690c37f5ffd4b3b72e5b42a2a7"
+  },
+  "event": {
+    "id": 1205,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:35:05.817Z",
+  "main": [
+    {
+      "name": "Archfiend Soldier",
+      "cleanName": "Archfiend Soldier",
+      "id": 506,
+      "artworkId": "49881766",
+      "sortPriority": 1
+    },
+    {
+      "name": "Archfiend Soldier",
+      "cleanName": "Archfiend Soldier",
+      "id": 506,
+      "artworkId": "49881766",
+      "sortPriority": 1
+    },
+    {
+      "name": "Archfiend Soldier",
+      "cleanName": "Archfiend Soldier",
+      "id": 506,
+      "artworkId": "49881766",
+      "sortPriority": 1
+    },
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Assailant",
+      "cleanName": "D D Assailant",
+      "id": 2056,
+      "artworkId": "70074904",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Warrior Lady",
+      "cleanName": "D D Warrior Lady",
+      "id": 2076,
+      "artworkId": "7572887",
+      "sortPriority": 3
+    },
+    {
+      "name": "Dark Necrofear",
+      "cleanName": "Dark Necrofear",
+      "id": 2273,
+      "artworkId": "31829185",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Orc",
+      "cleanName": "Giant Orc",
+      "id": 4139,
+      "artworkId": "73698349",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Orc",
+      "cleanName": "Giant Orc",
+      "id": 4139,
+      "artworkId": "73698349",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Orc",
+      "cleanName": "Giant Orc",
+      "id": 4139,
+      "artworkId": "73698349",
+      "sortPriority": 3
+    },
+    {
+      "name": "Infernalqueen Archfiend",
+      "cleanName": "Infernalqueen Archfiend",
+      "id": 4979,
+      "artworkId": "8581705",
+      "sortPriority": 3
+    },
+    {
+      "name": "Infernalqueen Archfiend",
+      "cleanName": "Infernalqueen Archfiend",
+      "id": 4979,
+      "artworkId": "8581705",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Terrorking Archfiend",
+      "cleanName": "Terrorking Archfiend",
+      "id": 9773,
+      "artworkId": "35975813",
+      "sortPriority": 3
+    },
+    {
+      "name": "Terrorking Archfiend",
+      "cleanName": "Terrorking Archfiend",
+      "id": 9773,
+      "artworkId": "35975813",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Call of the Haunted",
+      "cleanName": "Call of the Haunted",
+      "id": 1356,
+      "artworkId": "97077563",
+      "sortPriority": 16
+    },
+    {
+      "name": "Deck Devastation Virus",
+      "cleanName": "Deck Devastation Virus",
+      "id": 2381,
+      "artworkId": "35027493",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Karbonala Warrior",
+      "cleanName": "Karbonala Warrior",
+      "id": 5336,
+      "artworkId": "54541900",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Master of Oz",
+      "cleanName": "Master of Oz",
+      "id": 6162,
+      "artworkId": "27134689",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "Skull Knight",
+      "cleanName": "Skull Knight",
+      "id": 8894,
+      "artworkId": "2504891",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Amazoness Archer",
+      "cleanName": "Amazoness Archer",
+      "id": 275,
+      "artworkId": "91869203",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Marauding Captain",
+      "cleanName": "Marauding Captain",
+      "id": 6084,
+      "artworkId": "2460565",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Swordsman LV2",
+      "cleanName": "Mystic Swordsman LV2",
+      "id": 6639,
+      "artworkId": "47507260",
+      "sortPriority": 3
+    },
+    {
+      "name": "Zombyra the Dark",
+      "cleanName": "Zombyra the Dark",
+      "id": 11299,
+      "artworkId": "88472456",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Falling Down",
+      "cleanName": "Falling Down",
+      "id": 3438,
+      "artworkId": "32919136",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystik Wok",
+      "cleanName": "Mystik Wok",
+      "id": 6658,
+      "artworkId": "80161395",
+      "sortPriority": 15
+    },
+    {
+      "name": "Bottomless Trap Hole",
+      "cleanName": "Bottomless Trap Hole",
+      "id": 1166,
+      "artworkId": "29401950",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    }
+  ]
+}

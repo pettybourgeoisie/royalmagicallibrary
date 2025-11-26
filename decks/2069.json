@@ -1,0 +1,536 @@
+{
+  "id": 2069,
+  "name": null,
+  "ydk": "#created\nby\n...\n#main\n69579761\n69579761\n95178994\n95178994\n95178994\n0102380\n33508719\n22567609\n22567609\n22567609\n26202165\n08131171\n45985838\n45985838\n23205979\n23205979\n03510565\n03510565\n33184167\n79571449\n03136426\n03136426\n44656491\n44656491\n55144522\n73915051\n45986603\n38992735\n38992735\n38992735\n24068492\n24068492\n24068492\n54704216\n54704216\n54704216\n29843091\n29843091\n29843091\n83555666\n#extra\n80071763\n80071763\n17881964\n70681994\n66235877\n87751584\n87751584\n90140980\n49868263\n86099788\n86099788\n86099788\n63519819\n63519819\n63519819\n!side\n69015963\n03682106\n03682106\n44656491\n05318639\n71044499\n73915051\n73915051\n58851034\n58851034\n58851034\n85742772\n85742772\n17078030\n17078030\n",
+  "builderName": "paoloNS",
+  "builderId": "KwWMjeL5PwCTRqqzpbQzKR",
+  "deckTypeName": "Stall Burn",
+  "category": "Lockdown",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 300,
+  "communityName": "Format Library",
+  "eventAbbreviation": "FLC16",
+  "publishDate": "2021-02-21T02:42:31.541Z",
+  "placement": 3,
+  "downloads": 114,
+  "views": 1668,
+  "rating": 2,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "KwWMjeL5PwCTRqqzpbQzKR",
+    "name": "paoloNS",
+    "discordId": "667798004018970665",
+    "discordPfp": "524d5441bc4615dcfec31e648f830570"
+  },
+  "event": {
+    "id": 300,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:42:42.562Z",
+  "main": [
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Koala",
+      "cleanName": "Des Koala",
+      "id": 2442,
+      "artworkId": "69579761",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Germ",
+      "cleanName": "Giant Germ",
+      "id": 4136,
+      "artworkId": "95178994",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Germ",
+      "cleanName": "Giant Germ",
+      "id": 4136,
+      "artworkId": "95178994",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Germ",
+      "cleanName": "Giant Germ",
+      "id": 4136,
+      "artworkId": "95178994",
+      "sortPriority": 3
+    },
+    {
+      "name": "Lava Golem",
+      "cleanName": "Lava Golem",
+      "id": 5534,
+      "artworkId": "102380",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Nimble Momonga",
+      "cleanName": "Nimble Momonga",
+      "id": 6851,
+      "artworkId": "22567609",
+      "sortPriority": 3
+    },
+    {
+      "name": "Nimble Momonga",
+      "cleanName": "Nimble Momonga",
+      "id": 6851,
+      "artworkId": "22567609",
+      "sortPriority": 3
+    },
+    {
+      "name": "Nimble Momonga",
+      "cleanName": "Nimble Momonga",
+      "id": 6851,
+      "artworkId": "22567609",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Solar Flare Dragon",
+      "cleanName": "Solar Flare Dragon",
+      "id": 8983,
+      "artworkId": "45985838",
+      "sortPriority": 3
+    },
+    {
+      "name": "Solar Flare Dragon",
+      "cleanName": "Solar Flare Dragon",
+      "id": 8983,
+      "artworkId": "45985838",
+      "sortPriority": 3
+    },
+    {
+      "name": "Spirit Reaper",
+      "cleanName": "Spirit Reaper",
+      "id": 9179,
+      "artworkId": "23205979",
+      "sortPriority": 3
+    },
+    {
+      "name": "Spirit Reaper",
+      "cleanName": "Spirit Reaper",
+      "id": 9179,
+      "artworkId": "23205979",
+      "sortPriority": 3
+    },
+    {
+      "name": "Stealth Bird",
+      "cleanName": "Stealth Bird",
+      "id": 9308,
+      "artworkId": "3510565",
+      "sortPriority": 3
+    },
+    {
+      "name": "Stealth Bird",
+      "cleanName": "Stealth Bird",
+      "id": 9308,
+      "artworkId": "3510565",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Messenger of Peace",
+      "cleanName": "Messenger of Peace",
+      "id": 6333,
+      "artworkId": "44656491",
+      "sortPriority": 15
+    },
+    {
+      "name": "Messenger of Peace",
+      "cleanName": "Messenger of Peace",
+      "id": 6333,
+      "artworkId": "44656491",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Just Desserts",
+      "cleanName": "Just Desserts",
+      "id": 5270,
+      "artworkId": "24068492",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ojama Trio",
+      "cleanName": "Ojama Trio",
+      "id": 7154,
+      "artworkId": "29843091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Double Snare",
+      "cleanName": "Double Snare",
+      "id": 2761,
+      "artworkId": "3682106",
+      "sortPriority": 15
+    },
+    {
+      "name": "Double Snare",
+      "cleanName": "Double Snare",
+      "id": 2761,
+      "artworkId": "3682106",
+      "sortPriority": 15
+    },
+    {
+      "name": "Messenger of Peace",
+      "cleanName": "Messenger of Peace",
+      "id": 6333,
+      "artworkId": "44656491",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Cursed Seal of the Forbidden Spell",
+      "cleanName": "Cursed Seal of the Forbidden Spell",
+      "id": 1920,
+      "artworkId": "58851034",
+      "sortPriority": 16
+    },
+    {
+      "name": "Cursed Seal of the Forbidden Spell",
+      "cleanName": "Cursed Seal of the Forbidden Spell",
+      "id": 1920,
+      "artworkId": "58851034",
+      "sortPriority": 16
+    },
+    {
+      "name": "Cursed Seal of the Forbidden Spell",
+      "cleanName": "Cursed Seal of the Forbidden Spell",
+      "id": 1920,
+      "artworkId": "58851034",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    }
+  ]
+}

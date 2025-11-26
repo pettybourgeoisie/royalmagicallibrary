@@ -1,0 +1,430 @@
+{
+  "id": 2829,
+  "name": null,
+  "ydk": "#created\nby\n...\n#main\n40133511\n72989439\n39507162\n39507162\n39507162\n71413901\n70074904\n70074904\n07572887\n76922029\n74131780\n88240808\n88240808\n88240808\n04041838\n73752131\n33184167\n44763025\n79571449\n19613556\n05318639\n71044499\n71044499\n55144522\n32807846\n32807846\n45986603\n44095762\n27174286\n83555666\n56120475\n56120475\n56120475\n41420027\n41420027\n41420027\n53582587\n77754944\n77754944\n77754944\n#extra\n!side\n02134346\n06967870\n83986578\n83986578\n47507260\n47507260\n14087893\n14087893\n97169186\n97169186\n60082869\n60082869\n64697231\n64697231\n64697231\n",
+  "builderName": "Dylicious",
+  "builderId": "nXCnxT7s21r6kbF9fARSuN",
+  "deckTypeName": "Bazoo Return",
+  "category": "Aggro",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 365,
+  "communityName": "Format Library",
+  "eventAbbreviation": "DDS05",
+  "publishDate": "2022-06-29T19:50:43.955Z",
+  "placement": 1,
+  "downloads": 78,
+  "views": 1561,
+  "rating": 3,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "nXCnxT7s21r6kbF9fARSuN",
+    "name": "Dylicious",
+    "discordId": "257018096861052938",
+    "discordPfp": "ff26ea0ab37d9e18122631e5219cb14d"
+  },
+  "event": {
+    "id": 365,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:40:06.180Z",
+  "main": [
+    {
+      "name": "Bazoo the Soul-Eater",
+      "cleanName": "Bazoo the Soul Eater",
+      "id": 841,
+      "artworkId": "40133511",
+      "sortPriority": 3
+    },
+    {
+      "name": "Black Luster Soldier - Envoy of the Beginning",
+      "cleanName": "Black Luster Soldier Envoy of the Beginning",
+      "id": 951,
+      "artworkId": "72989439",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blade Knight",
+      "cleanName": "Blade Knight",
+      "id": 1035,
+      "artworkId": "39507162",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blade Knight",
+      "cleanName": "Blade Knight",
+      "id": 1035,
+      "artworkId": "39507162",
+      "sortPriority": 3
+    },
+    {
+      "name": "Blade Knight",
+      "cleanName": "Blade Knight",
+      "id": 1035,
+      "artworkId": "39507162",
+      "sortPriority": 3
+    },
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Assailant",
+      "cleanName": "D D Assailant",
+      "id": 2056,
+      "artworkId": "70074904",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Assailant",
+      "cleanName": "D D Assailant",
+      "id": 2056,
+      "artworkId": "70074904",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Warrior Lady",
+      "cleanName": "D D Warrior Lady",
+      "id": 2076,
+      "artworkId": "7572887",
+      "sortPriority": 3
+    },
+    {
+      "name": "Don Zaloog",
+      "cleanName": "Don Zaloog",
+      "id": 2721,
+      "artworkId": "76922029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ninja Grandmaster Sasuke",
+      "cleanName": "Ninja Grandmaster Sasuke",
+      "id": 6862,
+      "artworkId": "4041838",
+      "sortPriority": 3
+    },
+    {
+      "name": "Skilled Dark Magician",
+      "cleanName": "Skilled Dark Magician",
+      "id": 8883,
+      "artworkId": "73752131",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Return from the Different Dimension",
+      "cleanName": "Return from the Different Dimension",
+      "id": 8211,
+      "artworkId": "27174286",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Sakuretsu Armor",
+      "cleanName": "Sakuretsu Armor",
+      "id": 8460,
+      "artworkId": "56120475",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    },
+    {
+      "name": "Widespread Ruin",
+      "cleanName": "Widespread Ruin",
+      "id": 10900,
+      "artworkId": "77754944",
+      "sortPriority": 16
+    },
+    {
+      "name": "Widespread Ruin",
+      "cleanName": "Widespread Ruin",
+      "id": 10900,
+      "artworkId": "77754944",
+      "sortPriority": 16
+    },
+    {
+      "name": "Widespread Ruin",
+      "cleanName": "Widespread Ruin",
+      "id": 10900,
+      "artworkId": "77754944",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [],
+  "side": [
+    {
+      "name": "Asura Priest",
+      "cleanName": "Asura Priest",
+      "id": 652,
+      "artworkId": "2134346",
+      "sortPriority": 3
+    },
+    {
+      "name": "Dark Scorpion - Cliff the Trap Remover",
+      "cleanName": "Dark Scorpion Cliff the Trap Remover",
+      "id": 2293,
+      "artworkId": "6967870",
+      "sortPriority": 3
+    },
+    {
+      "name": "King Tiger Wanghu",
+      "cleanName": "King Tiger Wanghu",
+      "id": 5362,
+      "artworkId": "83986578",
+      "sortPriority": 3
+    },
+    {
+      "name": "King Tiger Wanghu",
+      "cleanName": "King Tiger Wanghu",
+      "id": 5362,
+      "artworkId": "83986578",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Swordsman LV2",
+      "cleanName": "Mystic Swordsman LV2",
+      "id": 6639,
+      "artworkId": "47507260",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Swordsman LV2",
+      "cleanName": "Mystic Swordsman LV2",
+      "id": 6639,
+      "artworkId": "47507260",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Smashing Ground",
+      "cleanName": "Smashing Ground",
+      "id": 8952,
+      "artworkId": "97169186",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    }
+  ]
+}

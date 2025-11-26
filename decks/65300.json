@@ -1,0 +1,529 @@
+{
+  "id": 65300,
+  "name": null,
+  "ydk": "created by...\n#main\n34124316\n69015963\n69015963\n69015963\n41855169\n33508719\n83011277\n83011277\n83011277\n26202165\n8131171\n23205979\n72892473\n98045062\n98045062\n42703248\n42703248\n42703248\n79571449\n19613556\n22046459\n22046459\n22046459\n37520316\n37520316\n55144522\n73915051\n73915051\n73915051\n72302403\n70368879\n83968380\n83968380\n83968380\n28566710\n28566710\n83555666\n41420027\n41420027\n41420027\n#extra\n11901678\n80071763\n17881964\n70681994\n66235877\n87751584\n13756293\n27134689\n90140980\n85684223\n49868263\n86099788\n63519819\n54752875\n!side\n9637706\n9637706\n9637706\n41855169\n41855169\n14087893\n3136426\n3136426\n85742772\n77414722\n77414722\n44095762\n17078030\n17078030\n17078030\n",
+  "builderName": "puy",
+  "builderId": "2e3nWEtN8AFgTS2NQMUhSG",
+  "deckTypeName": "Last Turn",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 2321,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GLCQ25A",
+  "publishDate": "2025-10-11T21:55:03.203Z",
+  "placement": 5,
+  "downloads": 31,
+  "views": 562,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "2e3nWEtN8AFgTS2NQMUhSG",
+    "name": "puy",
+    "discordId": "252564425511403520",
+    "discordPfp": "3aa70a445f7aac894a2c775794b36689"
+  },
+  "event": {
+    "id": 2321,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:30:48.559Z",
+  "main": [
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Jowgen the Spiritualist",
+      "cleanName": "Jowgen the Spiritualist",
+      "id": 5211,
+      "artworkId": "41855169",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Spirit Reaper",
+      "cleanName": "Spirit Reaper",
+      "id": 9179,
+      "artworkId": "23205979",
+      "sortPriority": 3
+    },
+    {
+      "name": "Card Destruction",
+      "cleanName": "Card Destruction",
+      "id": 1377,
+      "artworkId": "72892473",
+      "sortPriority": 15
+    },
+    {
+      "name": "Enemy Controller",
+      "cleanName": "Enemy Controller",
+      "id": 3197,
+      "artworkId": "98045062",
+      "sortPriority": 15
+    },
+    {
+      "name": "Enemy Controller",
+      "cleanName": "Enemy Controller",
+      "id": 3197,
+      "artworkId": "98045062",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Megamorph",
+      "cleanName": "Megamorph",
+      "id": 6248,
+      "artworkId": "22046459",
+      "sortPriority": 15
+    },
+    {
+      "name": "Megamorph",
+      "cleanName": "Megamorph",
+      "id": 6248,
+      "artworkId": "22046459",
+      "sortPriority": 15
+    },
+    {
+      "name": "Megamorph",
+      "cleanName": "Megamorph",
+      "id": 6248,
+      "artworkId": "22046459",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Scapegoat",
+      "cleanName": "Scapegoat",
+      "id": 8549,
+      "artworkId": "73915051",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Upstart Goblin",
+      "cleanName": "Upstart Goblin",
+      "id": 10525,
+      "artworkId": "70368879",
+      "sortPriority": 15
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Jar of Greed",
+      "cleanName": "Jar of Greed",
+      "id": 5175,
+      "artworkId": "83968380",
+      "sortPriority": 16
+    },
+    {
+      "name": "Last Turn",
+      "cleanName": "Last Turn",
+      "id": 5523,
+      "artworkId": "28566710",
+      "sortPriority": 16
+    },
+    {
+      "name": "Last Turn",
+      "cleanName": "Last Turn",
+      "id": 5523,
+      "artworkId": "28566710",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Black Skull Dragon",
+      "cleanName": "Black Skull Dragon",
+      "id": 966,
+      "artworkId": "11901678",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Master of Oz",
+      "cleanName": "Master of Oz",
+      "id": 6162,
+      "artworkId": "27134689",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Twin-Headed Thunder Dragon",
+      "cleanName": "Twin Headed Thunder Dragon",
+      "id": 10383,
+      "artworkId": "54752875",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Jowgen the Spiritualist",
+      "cleanName": "Jowgen the Spiritualist",
+      "id": 5211,
+      "artworkId": "41855169",
+      "sortPriority": 3
+    },
+    {
+      "name": "Jowgen the Spiritualist",
+      "cleanName": "Jowgen the Spiritualist",
+      "id": 5211,
+      "artworkId": "41855169",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Magic Jammer",
+      "cleanName": "Magic Jammer",
+      "id": 5892,
+      "artworkId": "77414722",
+      "sortPriority": 16
+    },
+    {
+      "name": "Magic Jammer",
+      "cleanName": "Magic Jammer",
+      "id": 5892,
+      "artworkId": "77414722",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    }
+  ]
+}

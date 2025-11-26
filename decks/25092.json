@@ -1,0 +1,536 @@
+{
+  "id": 25092,
+  "name": null,
+  "ydk": "#created by ...\n#main\n69015963\n09637706\n09637706\n74131780\n97017120\n47606319\n47606319\n47606319\n78658564\n78658564\n09817927\n79575620\n07489323\n07489323\n07489323\n14878871\n14878871\n14878871\n76305638\n33184167\n42703248\n42703248\n42703248\n79571449\n19613556\n85602018\n85602018\n85602018\n37520316\n37520316\n55144522\n70828912\n32807846\n32807846\n45986603\n56747793\n94192409\n94192409\n94192409\n83555666\n#extra\n80071763\n86805855\n17881964\n70681994\n66235877\n87751584\n13756293\n27134689\n90140980\n85684223\n49868263\n86099788\n63519819\n63519819\n63519819\n!side\n91869203\n79853073\n97017120\n09817927\n09817927\n33508719\n87910978\n87910978\n71044499\n71044499\n72302403\n44095762\n51452091\n51452091\n53582587\n",
+  "builderName": "dangiboss",
+  "builderId": "Krt7EEgfaD4cvrpoenqy8q",
+  "deckTypeName": "Cat OTK",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 890,
+  "communityName": "Goat Community Italia",
+  "eventAbbreviation": "GCICS10",
+  "publishDate": "2023-05-14T00:00:00.000Z",
+  "placement": 9,
+  "downloads": 39,
+  "views": 757,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "Krt7EEgfaD4cvrpoenqy8q",
+    "name": "dangiboss",
+    "discordId": "227192036133044224",
+    "discordPfp": "9af5e736c259afc4768642060b56f014"
+  },
+  "event": {
+    "id": 890,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:36:55.276Z",
+  "main": [
+    {
+      "name": "Cyber-Stein",
+      "cleanName": "Cyber Stein",
+      "id": 1980,
+      "artworkId": "69015963",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gigantes",
+      "cleanName": "Gigantes",
+      "id": 4157,
+      "artworkId": "47606319",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gigantes",
+      "cleanName": "Gigantes",
+      "id": 4157,
+      "artworkId": "47606319",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gigantes",
+      "cleanName": "Gigantes",
+      "id": 4157,
+      "artworkId": "47606319",
+      "sortPriority": 3
+    },
+    {
+      "name": "Goblin Attack Force",
+      "cleanName": "Goblin Attack Force",
+      "id": 4283,
+      "artworkId": "78658564",
+      "sortPriority": 3
+    },
+    {
+      "name": "Goblin Attack Force",
+      "cleanName": "Goblin Attack Force",
+      "id": 4283,
+      "artworkId": "78658564",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gyaku-Gire Panda",
+      "cleanName": "Gyaku Gire Panda",
+      "id": 4580,
+      "artworkId": "9817927",
+      "sortPriority": 3
+    },
+    {
+      "name": "Injection Fairy Lily",
+      "cleanName": "Injection Fairy Lily",
+      "id": 5059,
+      "artworkId": "79575620",
+      "sortPriority": 3
+    },
+    {
+      "name": "Milus Radiant",
+      "cleanName": "Milus Radiant",
+      "id": 6412,
+      "artworkId": "7489323",
+      "sortPriority": 3
+    },
+    {
+      "name": "Milus Radiant",
+      "cleanName": "Milus Radiant",
+      "id": 6412,
+      "artworkId": "7489323",
+      "sortPriority": 3
+    },
+    {
+      "name": "Milus Radiant",
+      "cleanName": "Milus Radiant",
+      "id": 6412,
+      "artworkId": "7489323",
+      "sortPriority": 3
+    },
+    {
+      "name": "Rescue Cat",
+      "cleanName": "Rescue Cat",
+      "id": 8183,
+      "artworkId": "14878871",
+      "sortPriority": 3
+    },
+    {
+      "name": "Rescue Cat",
+      "cleanName": "Rescue Cat",
+      "id": 8183,
+      "artworkId": "14878871",
+      "sortPriority": 3
+    },
+    {
+      "name": "Rescue Cat",
+      "cleanName": "Rescue Cat",
+      "id": 8183,
+      "artworkId": "14878871",
+      "sortPriority": 3
+    },
+    {
+      "name": "The Rock Spirit",
+      "cleanName": "The Rock Spirit",
+      "id": 9931,
+      "artworkId": "76305638",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Last Will",
+      "cleanName": "Last Will",
+      "id": 5524,
+      "artworkId": "85602018",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reinforcement of the Army",
+      "cleanName": "Reinforcement of the Army",
+      "id": 8138,
+      "artworkId": "32807846",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "United We Stand",
+      "cleanName": "United We Stand",
+      "id": 10511,
+      "artworkId": "56747793",
+      "sortPriority": 15
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Master of Oz",
+      "cleanName": "Master of Oz",
+      "id": 6162,
+      "artworkId": "27134689",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "The Last Warrior from Another Planet",
+      "cleanName": "The Last Warrior from Another Planet",
+      "id": 9886,
+      "artworkId": "86099788",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Amazoness Archer",
+      "cleanName": "Amazoness Archer",
+      "id": 275,
+      "artworkId": "91869203",
+      "sortPriority": 3
+    },
+    {
+      "name": "Cipher Soldier",
+      "cleanName": "Cipher Soldier",
+      "id": 1590,
+      "artworkId": "79853073",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gyaku-Gire Panda",
+      "cleanName": "Gyaku Gire Panda",
+      "id": 4580,
+      "artworkId": "9817927",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gyaku-Gire Panda",
+      "cleanName": "Gyaku Gire Panda",
+      "id": 4580,
+      "artworkId": "9817927",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Brain Control",
+      "cleanName": "Brain Control",
+      "id": 1177,
+      "artworkId": "87910978",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Royal Decree",
+      "cleanName": "Royal Decree",
+      "id": 8363,
+      "artworkId": "51452091",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    }
+  ]
+}

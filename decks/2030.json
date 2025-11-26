@@ -1,0 +1,536 @@
+{
+  "id": 2030,
+  "name": null,
+  "ydk": "#created\nby\n...\n#main\n34124316\n33508719\n83011277\n83011277\n83011277\n26202165\n31786629\n31786629\n31786629\n49140998\n49140998\n14087893\n14087893\n14087893\n38699854\n38699854\n38699854\n72892473\n16435215\n16435215\n16435215\n42703248\n42703248\n42703248\n79571449\n55144522\n70828912\n22589918\n22589918\n22589918\n49398568\n29228529\n29228529\n29228529\n43434803\n43434803\n43434803\n70368879\n70368879\n20781762\n#extra\n80071763\n86805855\n17881964\n70681994\n66235877\n87751584\n51828629\n90140980\n85684223\n19066538\n49868263\n53539634\n63519819\n63519819\n63519819\n!side\n19613556\n03136426\n03136426\n37520316\n37520316\n37520316\n43711255\n43711255\n43711255\n94192409\n94192409\n94192409\n93747864\n85742772\n85742772\n",
+  "builderName": "mmf",
+  "builderId": "37Lr7UaijFW5jA4Wyrdqe6",
+  "deckTypeName": "Empty Jar",
+  "category": "Combo",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 293,
+  "communityName": "Format Library",
+  "eventAbbreviation": "FLC09",
+  "publishDate": "2019-07-14T21:08:01.226Z",
+  "placement": 2,
+  "downloads": 137,
+  "views": 1840,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "37Lr7UaijFW5jA4Wyrdqe6",
+    "name": "mmf",
+    "discordId": "172481588867760128",
+    "discordPfp": "a3d48e2a5d0335d0578ddc8e36b6c051"
+  },
+  "event": {
+    "id": 293,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:43:56.177Z",
+  "main": [
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "Thunder Dragon",
+      "cleanName": "Thunder Dragon",
+      "id": 10028,
+      "artworkId": "31786629",
+      "sortPriority": 3
+    },
+    {
+      "name": "A Feather of the Phoenix",
+      "cleanName": "A Feather of the Phoenix",
+      "id": 18,
+      "artworkId": "49140998",
+      "sortPriority": 15
+    },
+    {
+      "name": "A Feather of the Phoenix",
+      "cleanName": "A Feather of the Phoenix",
+      "id": 18,
+      "artworkId": "49140998",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Taiyou",
+      "cleanName": "Book of Taiyou",
+      "id": 1136,
+      "artworkId": "38699854",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Taiyou",
+      "cleanName": "Book of Taiyou",
+      "id": 1136,
+      "artworkId": "38699854",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Taiyou",
+      "cleanName": "Book of Taiyou",
+      "id": 1136,
+      "artworkId": "38699854",
+      "sortPriority": 15
+    },
+    {
+      "name": "Card Destruction",
+      "cleanName": "Card Destruction",
+      "id": 1377,
+      "artworkId": "72892473",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dragged Down into the Grave",
+      "cleanName": "Dragged Down into the Grave",
+      "id": 2785,
+      "artworkId": "16435215",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Giant Trunade",
+      "cleanName": "Giant Trunade",
+      "id": 4149,
+      "artworkId": "42703248",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reload",
+      "cleanName": "Reload",
+      "id": 8154,
+      "artworkId": "22589918",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reload",
+      "cleanName": "Reload",
+      "id": 8154,
+      "artworkId": "22589918",
+      "sortPriority": 15
+    },
+    {
+      "name": "Reload",
+      "cleanName": "Reload",
+      "id": 8154,
+      "artworkId": "22589918",
+      "sortPriority": 15
+    },
+    {
+      "name": "Serial Spell",
+      "cleanName": "Serial Spell",
+      "id": 8675,
+      "artworkId": "49398568",
+      "sortPriority": 15
+    },
+    {
+      "name": "Spell Reproduction",
+      "cleanName": "Spell Reproduction",
+      "id": 9121,
+      "artworkId": "29228529",
+      "sortPriority": 15
+    },
+    {
+      "name": "Spell Reproduction",
+      "cleanName": "Spell Reproduction",
+      "id": 9121,
+      "artworkId": "29228529",
+      "sortPriority": 15
+    },
+    {
+      "name": "Spell Reproduction",
+      "cleanName": "Spell Reproduction",
+      "id": 9121,
+      "artworkId": "29228529",
+      "sortPriority": 15
+    },
+    {
+      "name": "The Shallow Grave",
+      "cleanName": "The Shallow Grave",
+      "id": 9941,
+      "artworkId": "43434803",
+      "sortPriority": 15
+    },
+    {
+      "name": "The Shallow Grave",
+      "cleanName": "The Shallow Grave",
+      "id": 9941,
+      "artworkId": "43434803",
+      "sortPriority": 15
+    },
+    {
+      "name": "The Shallow Grave",
+      "cleanName": "The Shallow Grave",
+      "id": 9941,
+      "artworkId": "43434803",
+      "sortPriority": 15
+    },
+    {
+      "name": "Upstart Goblin",
+      "cleanName": "Upstart Goblin",
+      "id": 10525,
+      "artworkId": "70368879",
+      "sortPriority": 15
+    },
+    {
+      "name": "Upstart Goblin",
+      "cleanName": "Upstart Goblin",
+      "id": 10525,
+      "artworkId": "70368879",
+      "sortPriority": 15
+    },
+    {
+      "name": "Rock Bombardment",
+      "cleanName": "Rock Bombardment",
+      "id": 8320,
+      "artworkId": "20781762",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Darkfire Dragon",
+      "cleanName": "Darkfire Dragon",
+      "id": 2329,
+      "artworkId": "17881964",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Giltia the D. Knight",
+      "cleanName": "Giltia the D Knight",
+      "id": 4171,
+      "artworkId": "51828629",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Roaring Ocean Snake",
+      "cleanName": "Roaring Ocean Snake",
+      "id": 8311,
+      "artworkId": "19066538",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "Sanwitch",
+      "cleanName": "Sanwitch",
+      "id": 8519,
+      "artworkId": "53539634",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Prohibition",
+      "cleanName": "Prohibition",
+      "id": 7761,
+      "artworkId": "43711255",
+      "sortPriority": 15
+    },
+    {
+      "name": "Prohibition",
+      "cleanName": "Prohibition",
+      "id": 7761,
+      "artworkId": "43711255",
+      "sortPriority": 15
+    },
+    {
+      "name": "Prohibition",
+      "cleanName": "Prohibition",
+      "id": 7761,
+      "artworkId": "43711255",
+      "sortPriority": 15
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Desert Sunlight",
+      "cleanName": "Desert Sunlight",
+      "id": 2450,
+      "artworkId": "93747864",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    }
+  ]
+}

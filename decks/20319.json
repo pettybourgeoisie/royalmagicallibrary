@@ -1,0 +1,536 @@
+{
+  "id": 20319,
+  "name": null,
+  "ydk": "#created by ...\n#main\n02326738\n02326738\n02326738\n52323207\n52323207\n52323207\n02694423\n02694423\n02694423\n41872150\n41872150\n15383415\n15383415\n15383415\n14087893\n14087893\n14087893\n44763025\n79571449\n03136426\n03136426\n05318639\n71044499\n71044499\n55144522\n94192409\n94192409\n94192409\n85742772\n85742772\n83555666\n41420027\n41420027\n41420027\n36361633\n36361633\n36361633\n17078030\n17078030\n17078030\n#extra\n11901678\n80071763\n86805855\n66235877\n01641882\n87751584\n54541900\n13756293\n85684223\n49868263\n63519819\n54752875\n02111707\n99724761\n25119460\n!side\n71413901\n41872150\n44656491\n44656491\n37520316\n37520316\n37520316\n72302403\n60082869\n60082869\n03819470\n03819470\n03819470\n12607053\n12607053\n",
+  "builderName": "NB96",
+  "builderId": "L9zAq37MKCafV4ZHrdevqF",
+  "deckTypeName": "PACMAN",
+  "category": "Ramp",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 673,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GFC02",
+  "publishDate": "2020-02-10T00:00:00.000Z",
+  "placement": 1,
+  "downloads": 287,
+  "views": 2441,
+  "rating": 4,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "L9zAq37MKCafV4ZHrdevqF",
+    "name": "NB96",
+    "discordId": "941011308667613235",
+    "discordPfp": null
+  },
+  "event": {
+    "id": 673,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:43:42.979Z",
+  "main": [
+    {
+      "name": "Des Lacooda",
+      "cleanName": "Des Lacooda",
+      "id": 2443,
+      "artworkId": "2326738",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Lacooda",
+      "cleanName": "Des Lacooda",
+      "id": 2443,
+      "artworkId": "2326738",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Lacooda",
+      "cleanName": "Des Lacooda",
+      "id": 2443,
+      "artworkId": "2326738",
+      "sortPriority": 3
+    },
+    {
+      "name": "Golem Sentry",
+      "cleanName": "Golem Sentry",
+      "id": 4338,
+      "artworkId": "52323207",
+      "sortPriority": 3
+    },
+    {
+      "name": "Golem Sentry",
+      "cleanName": "Golem Sentry",
+      "id": 4338,
+      "artworkId": "52323207",
+      "sortPriority": 3
+    },
+    {
+      "name": "Golem Sentry",
+      "cleanName": "Golem Sentry",
+      "id": 4338,
+      "artworkId": "52323207",
+      "sortPriority": 3
+    },
+    {
+      "name": "Medusa Worm",
+      "cleanName": "Medusa Worm",
+      "id": 6231,
+      "artworkId": "2694423",
+      "sortPriority": 3
+    },
+    {
+      "name": "Medusa Worm",
+      "cleanName": "Medusa Worm",
+      "id": 6231,
+      "artworkId": "2694423",
+      "sortPriority": 3
+    },
+    {
+      "name": "Medusa Worm",
+      "cleanName": "Medusa Worm",
+      "id": 6231,
+      "artworkId": "2694423",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Locusts",
+      "cleanName": "Swarm of Locusts",
+      "id": 9585,
+      "artworkId": "41872150",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Locusts",
+      "cleanName": "Swarm of Locusts",
+      "id": 9585,
+      "artworkId": "41872150",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Scarabs",
+      "cleanName": "Swarm of Scarabs",
+      "id": 9586,
+      "artworkId": "15383415",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Scarabs",
+      "cleanName": "Swarm of Scarabs",
+      "id": 9586,
+      "artworkId": "15383415",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Scarabs",
+      "cleanName": "Swarm of Scarabs",
+      "id": 9586,
+      "artworkId": "15383415",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Compulsory Evacuation Device",
+      "cleanName": "Compulsory Evacuation Device",
+      "id": 1681,
+      "artworkId": "94192409",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Threatening Roar",
+      "cleanName": "Threatening Roar",
+      "id": 10017,
+      "artworkId": "36361633",
+      "sortPriority": 16
+    },
+    {
+      "name": "Threatening Roar",
+      "cleanName": "Threatening Roar",
+      "id": 10017,
+      "artworkId": "36361633",
+      "sortPriority": 16
+    },
+    {
+      "name": "Threatening Roar",
+      "cleanName": "Threatening Roar",
+      "id": 10017,
+      "artworkId": "36361633",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    },
+    {
+      "name": "Wall of Revealing Light",
+      "cleanName": "Wall of Revealing Light",
+      "id": 10773,
+      "artworkId": "17078030",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Black Skull Dragon",
+      "cleanName": "Black Skull Dragon",
+      "id": 966,
+      "artworkId": "11901678",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Balter the Terrible",
+      "cleanName": "Dark Balter the Terrible",
+      "id": 2191,
+      "artworkId": "80071763",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dark Blade the Dragon Knight",
+      "cleanName": "Dark Blade the Dragon Knight",
+      "id": 2196,
+      "artworkId": "86805855",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fiend Skull Dragon",
+      "cleanName": "Fiend Skull Dragon",
+      "id": 3481,
+      "artworkId": "66235877",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Gatling Dragon",
+      "cleanName": "Gatling Dragon",
+      "id": 3957,
+      "artworkId": "87751584",
+      "sortPriority": 6
+    },
+    {
+      "name": "Karbonala Warrior",
+      "cleanName": "Karbonala Warrior",
+      "id": 5336,
+      "artworkId": "54541900",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ryu Senshi",
+      "cleanName": "Ryu Senshi",
+      "id": 8396,
+      "artworkId": "49868263",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Twin-Headed Thunder Dragon",
+      "cleanName": "Twin Headed Thunder Dragon",
+      "id": 10383,
+      "artworkId": "54752875",
+      "sortPriority": 6
+    },
+    {
+      "name": "XY-Dragon Cannon",
+      "cleanName": "XY Dragon Cannon",
+      "id": 11113,
+      "artworkId": "2111707",
+      "sortPriority": 6
+    },
+    {
+      "name": "XZ-Tank Cannon",
+      "cleanName": "XZ Tank Cannon",
+      "id": 11116,
+      "artworkId": "99724761",
+      "sortPriority": 6
+    },
+    {
+      "name": "YZ-Tank Dragon",
+      "cleanName": "YZ Tank Dragon",
+      "id": 11162,
+      "artworkId": "25119460",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Swarm of Locusts",
+      "cleanName": "Swarm of Locusts",
+      "id": 9585,
+      "artworkId": "41872150",
+      "sortPriority": 3
+    },
+    {
+      "name": "Messenger of Peace",
+      "cleanName": "Messenger of Peace",
+      "id": 6333,
+      "artworkId": "44656491",
+      "sortPriority": 15
+    },
+    {
+      "name": "Messenger of Peace",
+      "cleanName": "Messenger of Peace",
+      "id": 6333,
+      "artworkId": "44656491",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mind Control",
+      "cleanName": "Mind Control",
+      "id": 6420,
+      "artworkId": "37520316",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Waboku",
+      "cleanName": "Waboku",
+      "id": 10766,
+      "artworkId": "12607053",
+      "sortPriority": 16
+    },
+    {
+      "name": "Waboku",
+      "cleanName": "Waboku",
+      "id": 10766,
+      "artworkId": "12607053",
+      "sortPriority": 16
+    }
+  ]
+}

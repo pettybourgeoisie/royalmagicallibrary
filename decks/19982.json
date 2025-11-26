@@ -1,0 +1,501 @@
+{
+  "id": 19982,
+  "name": null,
+  "ydk": "#created by ...\n#main\n71413901\n97017120\n97017120\n97017120\n33508719\n77044671\n77044671\n77044671\n57281778\n57281778\n26202165\n79571449\n03136426\n03136426\n55144522\n38992735\n38992735\n38992735\n85742772\n85742772\n77414722\n77414722\n44095762\n54704216\n54704216\n54704216\n83555666\n03819470\n03819470\n03819470\n82732705\n82732705\n82732705\n41420027\n41420027\n41420027\n53582587\n64697231\n64697231\n64697231\n#extra\n11901678\n70681994\n15237615\n01641882\n90140980\n85684223\n53539634\n41462083\n63519819\n56413937\n!side\n74131780\n88240808\n88240808\n88240808\n57281778\n02204140\n31036355\n31036355\n44763025\n19613556\n05318639\n71044499\n71044499\n70828912\n45986603\n",
+  "builderName": "Delinkquent",
+  "builderId": "QD74swFMVGfzNxwLHKj9YC",
+  "deckTypeName": "Drain Burn",
+  "category": "Lockdown",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 671,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GFC12",
+  "publishDate": "2021-05-15T00:00:00.000Z",
+  "placement": 1,
+  "downloads": 86,
+  "views": 1248,
+  "rating": 27,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "QD74swFMVGfzNxwLHKj9YC",
+    "name": "Delinkquent",
+    "discordId": "514006398095327233",
+    "discordPfp": "32517cd12d8c33bbef6dd8b4e6c7599c"
+  },
+  "event": {
+    "id": 671,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:42:18.575Z",
+  "main": [
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Giant Rat",
+      "cleanName": "Giant Rat",
+      "id": 4141,
+      "artworkId": "97017120",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Pyramid Turtle",
+      "cleanName": "Pyramid Turtle",
+      "id": 7845,
+      "artworkId": "77044671",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ryu Kokki",
+      "cleanName": "Ryu Kokki",
+      "id": 8394,
+      "artworkId": "57281778",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ryu Kokki",
+      "cleanName": "Ryu Kokki",
+      "id": 8394,
+      "artworkId": "57281778",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Level Limit - Area B",
+      "cleanName": "Level Limit Area B",
+      "id": 5615,
+      "artworkId": "3136426",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Gravity Bind",
+      "cleanName": "Gravity Bind",
+      "id": 4459,
+      "artworkId": "85742772",
+      "sortPriority": 16
+    },
+    {
+      "name": "Magic Jammer",
+      "cleanName": "Magic Jammer",
+      "id": 5892,
+      "artworkId": "77414722",
+      "sortPriority": 16
+    },
+    {
+      "name": "Magic Jammer",
+      "cleanName": "Magic Jammer",
+      "id": 5892,
+      "artworkId": "77414722",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Nightmare Wheel",
+      "cleanName": "Nightmare Wheel",
+      "id": 6845,
+      "artworkId": "54704216",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Seven Tools of the Bandit",
+      "cleanName": "Seven Tools of the Bandit",
+      "id": 8688,
+      "artworkId": "3819470",
+      "sortPriority": 16
+    },
+    {
+      "name": "Skill Drain",
+      "cleanName": "Skill Drain",
+      "id": 8879,
+      "artworkId": "82732705",
+      "sortPriority": 16
+    },
+    {
+      "name": "Skill Drain",
+      "cleanName": "Skill Drain",
+      "id": 8879,
+      "artworkId": "82732705",
+      "sortPriority": 16
+    },
+    {
+      "name": "Skill Drain",
+      "cleanName": "Skill Drain",
+      "id": 8879,
+      "artworkId": "82732705",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    },
+    {
+      "name": "Trap Dustshoot",
+      "cleanName": "Trap Dustshoot",
+      "id": 10202,
+      "artworkId": "64697231",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Black Skull Dragon",
+      "cleanName": "Black Skull Dragon",
+      "id": 966,
+      "artworkId": "11901678",
+      "sortPriority": 6
+    },
+    {
+      "name": "Dragoness the Wicked Knight",
+      "cleanName": "Dragoness the Wicked Knight",
+      "id": 2822,
+      "artworkId": "70681994",
+      "sortPriority": 6
+    },
+    {
+      "name": "Empress Judge",
+      "cleanName": "Empress Judge",
+      "id": 3182,
+      "artworkId": "15237615",
+      "sortPriority": 6
+    },
+    {
+      "name": "Fusionist",
+      "cleanName": "Fusionist",
+      "id": 3826,
+      "artworkId": "1641882",
+      "sortPriority": 6
+    },
+    {
+      "name": "Ojama King",
+      "cleanName": "Ojama King",
+      "id": 7149,
+      "artworkId": "90140980",
+      "sortPriority": 6
+    },
+    {
+      "name": "Reaper on the Nightmare",
+      "cleanName": "Reaper on the Nightmare",
+      "id": 8044,
+      "artworkId": "85684223",
+      "sortPriority": 6
+    },
+    {
+      "name": "Sanwitch",
+      "cleanName": "Sanwitch",
+      "id": 8519,
+      "artworkId": "53539634",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand Dragon",
+      "cleanName": "Thousand Dragon",
+      "id": 10009,
+      "artworkId": "41462083",
+      "sortPriority": 6
+    },
+    {
+      "name": "Thousand-Eyes Restrict",
+      "cleanName": "Thousand Eyes Restrict",
+      "id": 10015,
+      "artworkId": "63519819",
+      "sortPriority": 6
+    },
+    {
+      "name": "Warrior of Tradition",
+      "cleanName": "Warrior of Tradition",
+      "id": 10799,
+      "artworkId": "56413937",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Exiled Force",
+      "cleanName": "Exiled Force",
+      "id": 3337,
+      "artworkId": "74131780",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Kycoo the Ghost Destroyer",
+      "cleanName": "Kycoo the Ghost Destroyer",
+      "id": 5484,
+      "artworkId": "88240808",
+      "sortPriority": 3
+    },
+    {
+      "name": "Ryu Kokki",
+      "cleanName": "Ryu Kokki",
+      "id": 8394,
+      "artworkId": "57281778",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Life",
+      "cleanName": "Book of Life",
+      "id": 1132,
+      "artworkId": "2204140",
+      "sortPriority": 15
+    },
+    {
+      "name": "Creature Swap",
+      "cleanName": "Creature Swap",
+      "id": 1793,
+      "artworkId": "31036355",
+      "sortPriority": 15
+    },
+    {
+      "name": "Creature Swap",
+      "cleanName": "Creature Swap",
+      "id": 1793,
+      "artworkId": "31036355",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Premature Burial",
+      "cleanName": "Premature Burial",
+      "id": 7727,
+      "artworkId": "70828912",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    }
+  ]
+}

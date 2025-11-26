@@ -1,0 +1,466 @@
+{
+  "id": 3021,
+  "name": null,
+  "ydk": "#created\nby\n...\n#main\n71413901\n07572887\n25262697\n25262697\n25262697\n63695531\n63695531\n63695531\n24317029\n24317029\n24317029\n33508719\n83011277\n26202165\n08131171\n33184167\n34853266\n14087893\n14087893\n14087893\n44763025\n79571449\n19613556\n69162969\n05318639\n47355498\n47355498\n47355498\n71044499\n71044499\n55144522\n45986603\n72302403\n73628505\n36468556\n44095762\n83555666\n30450531\n30450531\n30450531\n41420027\n53582587\n#extra\n45231177\n13756293\n13756293\n!side\n34124316\n09637706\n09637706\n12160911\n12160911\n04929256\n04929256\n11021521\n11021521\n38992735\n38992735\n29401950\n60082869\n60082869\n74270067\n",
+  "builderName": "Daryl Gessler",
+  "builderId": "E615AJJhGiwCYYKWvc4t1N",
+  "deckTypeName": "Gravekeeper",
+  "category": "Aggro",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 384,
+  "communityName": "Upper Deck Entertainment",
+  "eventAbbreviation": "SJCIND05",
+  "publishDate": "2005-08-20T00:00:00.000Z",
+  "placement": 5,
+  "downloads": 58,
+  "views": 1404,
+  "rating": 1,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "E615AJJhGiwCYYKWvc4t1N",
+    "name": "Daryl Gessler",
+    "discordId": null,
+    "discordPfp": null
+  },
+  "event": {
+    "id": 384,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:44:15.758Z",
+  "main": [
+    {
+      "name": "Breaker the Magical Warrior",
+      "cleanName": "Breaker the Magical Warrior",
+      "id": 1196,
+      "artworkId": "71413901",
+      "sortPriority": 3
+    },
+    {
+      "name": "D.D. Warrior Lady",
+      "cleanName": "D D Warrior Lady",
+      "id": 2076,
+      "artworkId": "7572887",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Assailant",
+      "cleanName": "Gravekeepers Assailant",
+      "id": 4426,
+      "artworkId": "25262697",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spear Soldier",
+      "cleanName": "Gravekeepers Spear Soldier",
+      "id": 4442,
+      "artworkId": "63695531",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spear Soldier",
+      "cleanName": "Gravekeepers Spear Soldier",
+      "id": 4442,
+      "artworkId": "63695531",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spear Soldier",
+      "cleanName": "Gravekeepers Spear Soldier",
+      "id": 4442,
+      "artworkId": "63695531",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Gravekeeper's Spy",
+      "cleanName": "Gravekeepers Spy",
+      "id": 4444,
+      "artworkId": "24317029",
+      "sortPriority": 3
+    },
+    {
+      "name": "Morphing Jar",
+      "cleanName": "Morphing Jar",
+      "id": 6555,
+      "artworkId": "33508719",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mystic Tomato",
+      "cleanName": "Mystic Tomato",
+      "id": 6642,
+      "artworkId": "83011278",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sangan",
+      "cleanName": "Sangan",
+      "id": 8516,
+      "artworkId": "26202165",
+      "sortPriority": 3
+    },
+    {
+      "name": "Sinister Serpent",
+      "cleanName": "Sinister Serpent",
+      "id": 8864,
+      "artworkId": "8131171",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tribe-Infecting Virus",
+      "cleanName": "Tribe Infecting Virus",
+      "id": 10273,
+      "artworkId": "33184167",
+      "sortPriority": 3
+    },
+    {
+      "name": "Tsukuyomi",
+      "cleanName": "Tsukuyomi",
+      "id": 10339,
+      "artworkId": "34853266",
+      "sortPriority": 3
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Book of Moon",
+      "cleanName": "Book of Moon",
+      "id": 1134,
+      "artworkId": "14087893",
+      "sortPriority": 15
+    },
+    {
+      "name": "Delinquent Duo",
+      "cleanName": "Delinquent Duo",
+      "id": 2421,
+      "artworkId": "44763025",
+      "sortPriority": 15
+    },
+    {
+      "name": "Graceful Charity",
+      "cleanName": "Graceful Charity",
+      "id": 4392,
+      "artworkId": "79571449",
+      "sortPriority": 15
+    },
+    {
+      "name": "Heavy Storm",
+      "cleanName": "Heavy Storm",
+      "id": 4677,
+      "artworkId": "19613556",
+      "sortPriority": 15
+    },
+    {
+      "name": "Lightning Vortex",
+      "cleanName": "Lightning Vortex",
+      "id": 5656,
+      "artworkId": "69162969",
+      "sortPriority": 15
+    },
+    {
+      "name": "Mystical Space Typhoon",
+      "cleanName": "Mystical Space Typhoon",
+      "id": 6656,
+      "artworkId": "5318639",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Necrovalley",
+      "cleanName": "Necrovalley",
+      "id": 6752,
+      "artworkId": "47355498",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Nobleman of Crossout",
+      "cleanName": "Nobleman of Crossout",
+      "id": 6902,
+      "artworkId": "71044499",
+      "sortPriority": 15
+    },
+    {
+      "name": "Pot of Greed",
+      "cleanName": "Pot of Greed",
+      "id": 7643,
+      "artworkId": "55144522",
+      "sortPriority": 15
+    },
+    {
+      "name": "Snatch Steal",
+      "cleanName": "Snatch Steal",
+      "id": 8966,
+      "artworkId": "45986603",
+      "sortPriority": 15
+    },
+    {
+      "name": "Swords of Revealing Light",
+      "cleanName": "Swords of Revealing Light",
+      "id": 9611,
+      "artworkId": "72302403",
+      "sortPriority": 15
+    },
+    {
+      "name": "Terraforming",
+      "cleanName": "Terraforming",
+      "id": 9766,
+      "artworkId": "73628505",
+      "sortPriority": 15
+    },
+    {
+      "name": "Ceasefire",
+      "cleanName": "Ceasefire",
+      "id": 1423,
+      "artworkId": "36468556",
+      "sortPriority": 16
+    },
+    {
+      "name": "Mirror Force",
+      "cleanName": "Mirror Force",
+      "id": 6464,
+      "artworkId": "44095762",
+      "sortPriority": 16
+    },
+    {
+      "name": "Ring of Destruction",
+      "cleanName": "Ring of Destruction",
+      "id": 8264,
+      "artworkId": "83555667",
+      "sortPriority": 16
+    },
+    {
+      "name": "Rite of Spirit",
+      "cleanName": "Rite of Spirit",
+      "id": 8280,
+      "artworkId": "30450531",
+      "sortPriority": 16
+    },
+    {
+      "name": "Rite of Spirit",
+      "cleanName": "Rite of Spirit",
+      "id": 8280,
+      "artworkId": "30450531",
+      "sortPriority": 16
+    },
+    {
+      "name": "Rite of Spirit",
+      "cleanName": "Rite of Spirit",
+      "id": 8280,
+      "artworkId": "30450531",
+      "sortPriority": 16
+    },
+    {
+      "name": "Solemn Judgment",
+      "cleanName": "Solemn Judgment",
+      "id": 8991,
+      "artworkId": "41420027",
+      "sortPriority": 16
+    },
+    {
+      "name": "Torrential Tribute",
+      "cleanName": "Torrential Tribute",
+      "id": 10167,
+      "artworkId": "53582587",
+      "sortPriority": 16
+    }
+  ],
+  "extra": [
+    {
+      "name": "Flame Swordsman",
+      "cleanName": "Flame Swordsman",
+      "id": 3585,
+      "artworkId": "45231177",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    },
+    {
+      "name": "King Dragun",
+      "cleanName": "King Dragun",
+      "id": 5358,
+      "artworkId": "13756293",
+      "sortPriority": 6
+    }
+  ],
+  "side": [
+    {
+      "name": "Cyber Jar",
+      "cleanName": "Cyber Jar",
+      "id": 1953,
+      "artworkId": "34124316",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Des Wombat",
+      "cleanName": "Des Wombat",
+      "id": 2446,
+      "artworkId": "9637706",
+      "sortPriority": 3
+    },
+    {
+      "name": "Elephant Statue of Disaster",
+      "cleanName": "Elephant Statue of Disaster",
+      "id": 3157,
+      "artworkId": "12160911",
+      "sortPriority": 3
+    },
+    {
+      "name": "Elephant Statue of Disaster",
+      "cleanName": "Elephant Statue of Disaster",
+      "id": 3157,
+      "artworkId": "12160911",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Mobius the Frost Monarch",
+      "cleanName": "Mobius the Frost Monarch",
+      "id": 6507,
+      "artworkId": "4929256",
+      "sortPriority": 3
+    },
+    {
+      "name": "Neko Mane King",
+      "cleanName": "Neko Mane King",
+      "id": 6769,
+      "artworkId": "11021521",
+      "sortPriority": 3
+    },
+    {
+      "name": "Neko Mane King",
+      "cleanName": "Neko Mane King",
+      "id": 6769,
+      "artworkId": "11021521",
+      "sortPriority": 3
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Wave-Motion Cannon",
+      "cleanName": "Wave Motion Cannon",
+      "id": 10845,
+      "artworkId": "38992735",
+      "sortPriority": 15
+    },
+    {
+      "name": "Bottomless Trap Hole",
+      "cleanName": "Bottomless Trap Hole",
+      "id": 1166,
+      "artworkId": "29401950",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Dust Tornado",
+      "cleanName": "Dust Tornado",
+      "id": 2965,
+      "artworkId": "60082869",
+      "sortPriority": 16
+    },
+    {
+      "name": "Pikeru's Circle of Enchantment",
+      "cleanName": "Pikerus Circle of Enchantment",
+      "id": 7581,
+      "artworkId": "74270067",
+      "sortPriority": 16
+    }
+  ]
+}

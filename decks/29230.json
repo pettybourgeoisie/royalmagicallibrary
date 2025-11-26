@@ -1,0 +1,43 @@
+{
+  "id": 29230,
+  "name": null,
+  "ydk": "#created by ...\n#main\n#extra\n!side\n",
+  "builderName": "Bradley Lyons",
+  "builderId": "t1Q3XxkWa1xYtQjHioVvcc",
+  "deckTypeName": "Earth Beat",
+  "category": "Aggro",
+  "display": true,
+  "formatName": "Goat",
+  "formatId": 8,
+  "eventId": 1012,
+  "communityName": "GoatFormat.com",
+  "eventAbbreviation": "GGPCHI23",
+  "publishDate": "2023-07-29T00:00:00.000Z",
+  "placement": 3,
+  "downloads": 42,
+  "views": 1403,
+  "rating": 0,
+  "format": {
+    "id": 8,
+    "name": "Goat",
+    "icon": "bluesheep",
+    "banlist": "April 2005",
+    "videoName": null,
+    "videoId": null,
+    "videoPlaylistId": null
+  },
+  "builder": {
+    "id": "t1Q3XxkWa1xYtQjHioVvcc",
+    "name": "Bradley Lyons",
+    "discordId": null,
+    "discordPfp": null
+  },
+  "event": {
+    "id": 1012,
+    "isRepresentative": true
+  },
+  "updatedAt": "2025-11-26T21:36:01.170Z",
+  "main": [],
+  "extra": [],
+  "side": []
+}
