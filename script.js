@@ -70,7 +70,7 @@ function populateDropdown(filterId, options) {
     console.error(`Dropdown with ID '${filterId}' not found.`);
     return;
   }
-  options.sort().forEach(option => {
+  options.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase())).forEach(option => {
     const opt = document.createElement('option');
     opt.value = option;
     opt.textContent = option;
