@@ -322,7 +322,19 @@ async function searchDecks() {
 
       const deckInfo = document.createElement('div');
       deckInfo.className = 'deck-info';
-      deckInfo.textContent = `${deck.eventAbbreviation || 'Unknown Event'} · ${deck.builderName || 'Unknown Builder'} · ${deck.placement ? `${deck.placement}${getOrdinalSuffix(deck.placement)}` : 'Unknown Placement'}`;
+      
+      // Format publishDate
+      let formattedDate = 'Unknown Date';
+      if (deck.publishDate) {
+        const date = new Date(deck.publishDate);
+        const year = date.getFullYear();
+        const month = date.toLocaleString('en-US', { month: 'short' }); // Jan, Feb, etc.
+        const day = String(date.getDate()).padStart(2, '0');
+        formattedDate = `${year}-${month}-${day}`;
+      }
+
+      deckInfo.textContent = `${deck.eventAbbreviation || 'Unknown Event'} · ${deck.builderName || 'Unknown Builder'} · ${deck.placement ? `${deck.placement}${getOrdinalSuffix(deck.placement)}` : 'Unknown Placement'} · ${formattedDate}`;
+
 
       link.appendChild(img);
       container.appendChild(link);
